@@ -5,63 +5,26 @@
 ## THE BOY WHO LIVED 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://dict.eudic.net/webting/play?id=b067b7ce-2e45-40ed-9e73-a379bade8f0f&order=0"></iframe>
-
 Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say 
-that they were perfectly normal, thank you very much. They were the last 
-people you'd expect to be involved in anything strange or mysterious, 
-because they just didn't hold with such nonsense. 
+that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense. 
 
-Mr. Dursley was the director of a firm called Grunnings, which made 
-drills. He was a big, beefy man with hardly any neck, although he did 
-have a very large mustache. Mrs. Dursley was thin and blonde and had 
-nearly twice the usual amount of neck, which came in very useful as she 
-spent so much of her time craning over garden ==fences==, spying on the 
-neighbors. The Dursleys had a small son called Dudley and in their 
-opinion there was no finer boy anywhere. 
+Mr. Dursley was the director of a firm called Grunnings, which made drills. He was a big, beefy man with hardly any neck, although he did have a very large mustache. Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden ==fences==, spying on the neighbors. The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere. 
 
-The Dursleys had everything they wanted, but they also had a secret, and 
-their greatest fear was that somebody would discover it. They didn't 
-think they could bear it if anyone found out about the Potters. Mrs. 
-Potter was Mrs. Dursley's sister, but they hadn't met for several years; 
-in fact, Mrs. Dursley pretended she didn't have a sister, because her 
-sister and her good-for-nothing husband were as unDursleyish as it was 
-possible to be. The Dursleys shuddered to think what the neighbors would 
-say if the Potters arrived in the street. The Dursleys knew that the 
-Potters had a small son, too, but they had never even seen him. This boy 
-was another good reason for keeping the Potters away; they didn't want 
-Dudley mixing with a child like that. 
+The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. They didn't think they could bear it if anyone found out about the Potters. Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several years; in fact, Mrs. Dursley pretended she didn't have a sister, because her sister and her good-for-nothing husband were as unDursleyish as it was possible to be. The Dursleys shuddered to think what the neighbors would say if the Potters arrived in the street. The Dursleys knew that the Potters had a small son, too, but they had never even seen him. This boy was another good reason for keeping the Potters away; they didn't want Dudley mixing with a child like that. 
 
-When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story 
-starts, there was nothing about the cloudy sky outside to suggest that 
-strange and mysterious things would soon be happening all over the 
-country. Mr. Dursley ==hummed== as he picked out his most boring tie for 
-work, and Mrs. Dursley ==gossiped== away happily as she ==wrestled== a screaming 
-Dudley into his high chair. 
+When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr. Dursley ==hummed== as he picked out his most boring tie for work, and Mrs. Dursley ==gossiped== away happily as she ==wrestled== a screaming Dudley into his high chair. 
 
 None of them noticed a large, ==tawny== owl flutter past the window. 
 
-At half past eight, Mr. Dursley picked up his briefcase, ==pecked== Mrs. 
-Dursley on the cheek, and tried to kiss Dudley good-bye but missed, 
+At half past eight, Mr. Dursley picked up his briefcase, ==pecked== Mrs. Dursley on the cheek, and tried to kiss Dudley good-bye but missed, 
 
 1
 
+because Dudley was now having a ==tantrum== and throwing his ==cereal== at the walls. "Little ==tyke==," ==
 
-because Dudley was now having a ==tantrum== and throwing his ==cereal== at the 
-walls. "Little ==tyke==," chortled Mr. Dursley as he left the house. He got 
-into his car and backed out of number four's drive. 
+== Mr. Dursley as he left the house. He got into his car and backed out of number four's drive. 
 
-It was on the corner of the street that he noticed the first sign of 
-something ==peculiar== -- a cat reading a map. For a second, Mr. Dursley 
-didn't realize what he had seen -- then he jerked his head around to 
-look again. There was a ==tabby== cat standing on the corner of Privet 
-Drive, but there wasn't a map in sight. What could he have been thinking 
-of? It must have been a trick of the light. Mr. Dursley blinked and 
-stared at the cat. It stared back. As Mr. Dursley drove around the 
-corner and up the road, he watched the cat in his mirror. It was now 
-reading the sign that said Privet Drive -- no, looking at the sign; cats 
-couldn't read maps or signs. Mr. Dursley gave himself a little shake and 
-put the cat out of his mind. As he drove toward town he thought of 
-nothing except a large order of drills he was hoping to get that day. 
+It was on the corner of the street that he noticed the first sign of something ==peculiar== -- a cat reading a map. For a second, Mr. Dursley didn't realize what he had seen -- then he jerked his head around to look again. There was a ==tabby== cat standing on the corner of Privet Drive, but there wasn't a map in sight. What could he have been thinking of? It must have been a trick of the light. Mr. Dursley blinked and stared at the cat. It stared back. As Mr. Dursley drove around the corner and up the road, he watched the cat in his mirror. It was now reading the sign that said Privet Drive -- no, looking at the sign; cats couldn't read maps or signs. Mr. Dursley gave himself a little shake and put the cat out of his mind. As he drove toward town he thought of nothing except a large order of drills he was hoping to get that day. 
 
 But on the edge of town, drills were driven out of his mind by something else. As he sat in the usual morning traffic jam, he couldn't help noticing that there seemed to be a lot of strangely dressed people about. People in cloaks. Mr. Dursley couldn't bear people who dressed in funny clothes -- the ==getups== you saw on young people! He supposed this was some stupid new fashion. He drummed his fingers on the ==steering wheel== and his eyes fell on a huddle of these ==weirdo==s standing quite close by. They were whispering excitedly together. Mr. Dursley was ==enraged== to see that a couple of them weren't young at all; why, that man had to be older than he was, and wearing an ==emerald-green== ==cloak!== The nerve of him! But then it struck Mr. Dursley that this was probably some silly stunt -- these people were obviously collecting for something... yes, that would be it. The traffic moved on and a few minutes later, Mr. Dursley arrived in the Grunnings parking lot, his mind back on ==drills.== 
 
@@ -273,7 +236,7 @@ thought he might be hiding Harry underneath it.
 
 I would trust Hagrid with my life," said Dumbledore. 
 
-"I'm not saying his heart isn't in the right place," said Professor McGonagall grudgingly, "but you can't pretend he's not careless. He does tend to -- what was that?" 
+"I'm not saying his heart isn't in the right place," said Professor McGonagall ==grudgingly,== "but you can't pretend he's not careless. He does tend to -- what was that?" 
 
 A low rumbling sound had broken the silence around them. It grew steadily louder as they looked up and down the street for some sign of a 
 
@@ -286,7 +249,7 @@ If the motorcycle was huge, it was nothing to the man sitting ==astride== it. He
 
 "Hagrid," said Dumbledore, sounding relieved. "At last. And where did you get that motorcycle?" 
 
-"Borrowed it, Professor Dumbledore, sit," said the giant, climbing carefully off the motorcycle as he spoke. "Young ==Sirius== Black lent it to me. I've got him, sir." 
+"Borrowed it, Professor Dumbledore, sir," said the giant, climbing carefully off the motorcycle as he spoke. "Young ==Sirius== Black lent it to me. I've got him, sir." 
 
 "No problems, were there?" 
 
@@ -319,7 +282,7 @@ great, ==shaggy== head over Harry and gave him what must have been a very ==scra
 
 "Well," said Dumbledore finally, "that's that. We've no business staying here. We may as well go and join the celebrations." 
 
-"Yeah," said Hagrid in a very muffled voice, "I'll be takin' Sirius his bike back. G'night, Professor McGonagall -- Professor Dumbledore, sir." 
+"Yeah," said Hagrid in a very ==muffled== voice, "I'll be takin' Sirius his bike back. G'night, Professor McGonagall -- Professor Dumbledore, sir." 
 
 Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life; with a roar it rose into the air and off into the night. 
 
@@ -332,5 +295,4 @@ Dumbledore turned and walked back down the street. On the corner he stopped and 
 12
 
 
-
 A breeze ==ruffled== the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over inside his blankets without waking up. One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream as she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley... He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in hushed voices: "To Harry Potter -- the boy who lived!" 
