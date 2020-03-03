@@ -5,26 +5,20 @@
 ## THE KEEPER OF THE KEYS 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://dict.eudic.net/webting/play?id=6bd9abed-3fdd-4f95-9a89-b63f9ede040c&order=0"></iframe>
-BOOM. They knocked again. Dudley jerked awake. "Where's the cannon?" he 
-said stupidly. 
+BOOM. They knocked again. Dudley jerked awake. "Where's the cannon?" he said stupidly. 
 
-There was a crash behind them and Uncle Vernon came skidding into the room. He was holding a rifle in his hands -- now they knew what had been in the long, thin package he had brought with them. 
+There was a crash behind them and Uncle Vernon came ==skidding== into the room. He was holding a rifle in his hands -- now they knew what had been in the long, thin package he had brought with them. 
 
 34
 
-
-
 "Who's there?" he shouted. "I warn you -- I'm armed!"
-There was a pause. Then -
-SMASH!
-The door was hit with such force that it swung clean off its hinges and
-
-with a deafening crash landed flat on the floor. 
-A giant of a man was standing in the doorway. His face was almost completely hidden by a long, shaggy mane of hair and a wild, tangled beard, but you could make out his eyes, glinting like black beetles under all the hair. 
+There was a pause. Then -SMASH!
+The door was hit with such force that it swung clean off its ==hinges== and with a deafening crash landed flat on the floor. 
+A giant of a man was standing in the doorway. His face was almost completely hidden by a long, ==shaggy== ==mane== of hair and a wild, ==tangled== beard, but you could make out his eyes, glinting like black ==beetles== under all the hair. 
 The giant squeezed his way into the hut, stooping so that his head just brushed the ceiling. He bent down, picked up the door, and fitted it easily back into its frame. The noise of the storm outside dropped a little. He turned to look at them all. 
 
-"Couldn't make us a cup o' tea, could yeh? It's not been an easyjourney..."
-He strode over to the sofa where Dudley sat frozen with fear.
+"Couldn't make us a cup o' tea, could yeh? It's not been an easy journey..."
+He ==strode== over to the sofa where Dudley sat frozen with fear.
 
 "Budge up, yeh great lump," said the stranger.
 Dudley squeaked and ran to hide behind his mother, who was crouching,terrified, behind Uncle Vernon.
@@ -32,22 +26,17 @@ Dudley squeaked and ran to hide behind his mother, who was crouching,terrified, 
 
 "An' here's Harry!" said the giant.
 
-Harry looked up into the fierce, wild, shadowy face and saw that thebeetle eyes were crinkled in a smile.
-"Las' time I saw you, you was only a baby," said the giant. "Yeh look a
+Harry looked up into the ==fierce==, wild, shadowy face and saw that the beetle eyes were crinkled in a smile.
+"Las' time I saw you, you was only a baby," said the giant. 
 
-lot like yet dad, but yeh've got yet mom's eyes."
+"Yeh look a lot like yet dad, but yeh've got yet mom's eyes."
 Uncle Vernon made a funny rasping noise.
-I demand that you leave at once, sit!" he said. "You are breaking and
-
-
-entering!"
+I demand that you leave at once, sit!" he said. "You are breaking and entering!"
 
 35
 
 
-
-"Ah, shut up, Dursley, yeh great prune," said the giant; he reached over the back of the sofa, jerked the gun out of Uncle Vernon's hands, bent 
-it into a knot as easily as if it had been made of rubber, and threw it into a corner of the room. 
+"Ah, shut up, Dursley, yeh great prune," said the giant; he reached over the back of the sofa, jerked the gun out of Uncle Vernon's hands, bent  it into a knot as easily as if it had been made of rubber, and threw it into a corner of the room. 
 
 Uncle Vernon made another funny noise, like a mouse being trodden on. 
 
@@ -66,9 +55,9 @@ He held out an enormous hand and shook Harry's whole arm.
 "What about that tea then, eh?" he said, rubbing his hands together. 
 "I'd not say no ter summat stronger if yeh've got it, mind." 
 
-His eyes fell on the empty grate with the shriveled chip bags in it and he snorted. He bent down over the fireplace; they couldn't see what he was doing but when he drew back a second later, there was a roaring fire there. It filled the whole damp hut with flickering light and Harry felt the warmth wash over him as though he'd sunk into a hot bath. 
+His eyes fell on the empty ==grate== with the ==shriveled== chip bags in it and he ==snorted==. He bent down over the fireplace; they couldn't see what he was doing but when he drew back a second later, there was a roaring fire there. It filled the whole ==damp== hut with flickering light and Harry felt the warmth wash over him as though he'd sunk into a hot bath. 
 
-The giant sat back down on the sofa, which sagged under his weight, and began taking all sorts of things out of the pockets of his coat: a copper kettle, a squashy package of sausages, a poker, a teapot, several 
+The giant sat back down on the sofa, which ==sagged== under his weight, and began taking all sorts of things out of the pockets of his coat: a copper kettle, a squashy package of sausages, a poker, a teapot, several 
 chipped mugs, and a bottle of some amber liquid that he took a swig from before starting to make tea. Soon the hut was full of the sound and smell of sizzling sausage. Nobody said a thing while the giant was 
 working, but as he slid the first six fat, juicy, slightly burnt 
 
@@ -102,7 +91,7 @@ Hagrid looked shocked.
 "ALL WHAT?" Hagrid thundered. "Now wait jus' one second!" 
 
 He had leapt to his feet. In his anger he seemed to fill the whole hut. 
-The Dursleys were cowering against the wall. 
+The Dursleys were ==cowering== against the wall. 
 
 "Do you mean ter tell me," he growled at the Dursleys, "that this boy -this boy! -- knows nothin' abou' -- about ANYTHING?" 
 
@@ -117,29 +106,18 @@ Harry thought this was going a bit far. He had been to school, after all, and hi
 "What world?"
 Hagrid looked as if he was about to explode.
 "DURSLEY!" he boomed.
-Uncle Vernon, who had gone very pale, whispered something that sounded
+Uncle Vernon, who had gone very pale, whispered something that sounded like "Mimblewimble." 
 
+Hagrid stared wildly at Harry.
 
-like "Mimblewimble." Hagrid stared wildly at Harry.
-
-"But yeh must know about yet mom and dad," he said. "I mean, they'refamous. You're famous."
+"But yeh must know about yet mom and dad," he said. "I mean, they're famous. You're famous."
 "What? My -- my mom and dad weren't famous, were they?"
-"Yeh don' know... yeh don' know..." Hagrid ran his fingers through his
-
-hair, fixing Harry with a bewildered stare.
+"Yeh don' know... yeh don' know..." Hagrid ran his fingers through his hair, fixing Harry with a bewildered stare.
 "Yeh don' know what yeh are?" he said finally.
 Uncle Vernon suddenly found his voice.
 "Stop!" he commanded. "Stop right there, sit! I forbid you to tell the boy anything!"
-A braver man than Vernon Dursley would have quailed under the furious
-
-
-look Hagrid now gave him; when Hagrid spoke, his every syllable trembled
-with rage.
-"You never told him? Never told him what was in the letter Dumbledore
-
-
-left fer him? I was there! I saw Dumbledore leave it, Dursley! An'
-you've kept it from him all these years?"
+A braver man than Vernon Dursley would have ==quailed== under the ==furious== look Hagrid now gave him; when Hagrid spoke, his every syllable trembled with rage.
+"You never told him? Never told him what was in the letter Dumbledore left fer him? I was there! I saw Dumbledore leave it, Dursley! An' you've kept it from him all these years?"
 "Kept what from me?" said Harry eagerly.
 "STOP! I FORBID YOU!" yelled Uncle Vernon in panic.
 Aunt Petunia gave a gasp of horror.
@@ -155,10 +133,9 @@ There was silence inside the hut. Only the sea and the whistling wind could be h
 
 "-- a what?" gasped Harry. 
 
-"A wizard, o' course," said Hagrid, sitting back down on the sofa, which groaned and sank even lower, "an' a thumpin' good'un, I'd say, once yeh've been trained up a bit. With a mum an' dad like yours, what else would yeh be? An' I reckon it's abou' time yeh read yer letter." 
+"A wizard, o' course," said Hagrid, sitting back down on the sofa, which ==groaned== and sank even lower, "an' a thumpin' good'un, I'd say, once yeh've been trained up a bit. With a mum an' dad like yours, what else would yeh be? An' I reckon it's abou' time yeh read yer letter." 
 
-Harry stretched out his hand at last to take the yellowish envelope, addressed in emerald green to Mr. H. Potter, The Floor, Hut-on-the-Rock, 
-The Sea. He pulled out the letter and read: 
+Harry stretched out his hand at last to take the yellowish envelope, addressed in emerald green to Mr. H. Potter, The Floor, Hut-on-the-Rock, The Sea. He pulled out the letter and read: 
 
 HOGWARTS SCHOOL of WITCHCRAFT and WIZARDRY 
 
@@ -177,26 +154,22 @@ Minerva McGonagall,
 
 Deputy Headmistress 
 
-Questions exploded inside Harry's head like fireworks and he couldn't decide which to ask first. After a few minutes he stammered, "What does it mean, they await my owl?" 
+Questions exploded inside Harry's head like fireworks and he couldn't decide which to ask first. After a few minutes he ==stammered==, "What does it mean, they await my owl?" 
 
 "Gallopin' Gorgons, that reminds me," said Hagrid, clapping a hand to his forehead with enough force to knock over a cart horse, and from yet 
 
 39
 
-
 another pocket inside his overcoat he pulled an owl -- a real, live, rather ruffled-looking owl -- a long quill, and a roll of parchment. 
-With his tongue between his teeth he scribbled a note that Harry could 
-read upside down: 
+With his tongue between his teeth he scribbled a note that Harry could read upside down: 
 
 Dear Professor Dumbledore,
 Given Harry his letter.
 Taking him to buy his things tomorrow.
 Weather's horrible. Hope you're Well.
 Hagrid
-Hagrid rolled up the note, gave it to the owl, which clamped it in its
 
-
-beak, went to the door, and threw the owl out into the storm. Then he came back and sat down as though this was as normal as talking on the telephone. 
+Hagrid rolled up the note, gave it to the owl, which clamped it in its beak, went to the door, and threw the owl out into the storm. Then he came back and sat down as though this was as normal as talking on the telephone. 
 
 Harry realized his mouth was open and closed it quickly. 
 
@@ -205,24 +178,16 @@ Harry realized his mouth was open and closed it quickly.
 Hagrid grunted.
 "I'd like ter see a great Muggle like you stop him," he said.
 "A what?" said Harry, interested.
-"A Muggle," said Hagrid, "it's what we call nonmagic folk like thern.
-
-
-An' it's your bad luck you grew up in a family o' the biggest Muggles I
-
-ever laid eyes on."
-"We swore when we took him in we'd put a stop to that rubbish," saidUncle Vernon, "swore we'd stamp it out of him! Wizard indeed!"
-
+"A Muggle," said Hagrid, "it's what we call nonmagic folk like thern. An' it's your bad luck you grew up in a family o' the biggest Muggles I ever laid eyes on."
+"We swore when we took him in we'd put a stop to that rubbish," said Uncle Vernon, "swore we'd stamp it out of him! Wizard indeed!"
 
 "You knew?" said Harry. "You knew I'm a -- a wizard?"
-"Knew!" shrieked Aunt Petunia suddenly. "Knew! Of course we knew! How
-
+"Knew!" ==shrieked== Aunt Petunia suddenly. "Knew! Of course we knew! How
 
 40
 
 
-
-could you not be, my dratted sister being what she was? Oh, she got a letter just like that and disappeared off to that-that school-and came home every vacation with her pockets full of frog spawn, turning teacups into rats. I was the only one who saw her for what she was -- a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!" 
+could you not be, my dratted sister being what she was? Oh, she got a letter just like that and disappeared off to that-that school-and came home every vacation with her pockets full of frog ==spawn==, turning teacups into rats. I was the only one who saw her for what she was -- a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!" 
 
 She stopped to draw a deep breath and then went ranting on. It seemed she had been wanting to say all this for years. 
 
@@ -230,11 +195,11 @@ She stopped to draw a deep breath and then went ranting on. It seemed she had be
 
 Harry had gone very white. As soon as he found his voice he said, "Blown up? You told me they died in a car crash!" 
 
-"CAR CRASH!" roared Hagrid, jumping up so angrily that the Dursleys scuttled back to their corner. "How could a car crash kill Lily an' James Potter? It's an outrage! A scandal! Harry Potter not knowin' his own story when every kid in our world knows his name!" "But why? What happened?" Harry asked urgently. 
+"CAR CRASH!" roared Hagrid, jumping up so angrily that the Dursleys ==scuttled== back to their corner. "How could a car crash kill Lily an' James Potter? It's an ==outrage==! A scandal! Harry Potter not knowin' his own story when every kid in our world knows his name!" "But why? What happened?" Harry asked urgently. 
 
 The anger faded from Hagrid's face. He looked suddenly anxious. 
 
-"I never expected this," he said, in a low, worried voice. "I had no idea, when Dumbledore told me there might be trouble gettin' hold of yeh, how much yeh didn't know. Ah, Harry, I don' know if I'm the right person ter tell yeh -- but someone 3 s gotta -- yeh can't go off ter Hogwarts not knowin'." 
+"I never expected this," he said, in a low, worried voice. "I had no idea, when Dumbledore told me there might be trouble gettin' hold of yeh, how much yeh didn't know. Ah, Harry, I don' know if I'm the right person ter tell yeh -- but someone‘s gotta -- yeh can't go off ter Hogwarts not knowin'." 
 
 He threw a dirty look at the Dursleys. 
 
@@ -252,15 +217,15 @@ He sat down, stared into the fire for a few seconds, and then said, "It begins, 
 
 "Why not?" 
 
-"Gulpin' gargoyles, Harry, people are still scared. Blimey, this isdifficult. See, there was this wizard who went... bad. As bad as youcould go. Worse. Worse than worse. His name was..."
+"Gulpin' gargoyles, Harry, people are still scared. Blimey, this is difficult. See, there was this wizard who went... bad. As bad as you could go. Worse. Worse than worse. His name was..."
 
 
-Hagrid gulped, but no words came out.
+Hagrid ==gulped==, but no words came out.
 
 
 "Could you write it down?" Harry suggested.
 
-"Nah -can't spell it. All right -- Voldemort. " Hagrid shuddered. "Don'make me say it again. Anyway, this -- this wizard, about twenty years ago now, started lookin' fer followers. Got 'em, too -- some were afraid, some just wanted a bit o' his power, 'cause he was get tin'himself power, all right. Dark days, Harry. Didn't know who ter trust,didn't dare get friendly with strange wizards or witches... terrible things happened. He was takin' over. 'Course, some stood up to him -an' he killed 'em. Horribly. One o' the only safe places left was Hogwarts. Reckon Dumbledore's the only one You-Know-Who was afraid of.
+"Nah -can't spell it. All right -- Voldemort. " Hagrid shuddered. "Don' make me say it again. Anyway, this -- this wizard, about twenty years ago now, started lookin' fer followers. Got 'em, too -- some were afraid, some just wanted a bit o' his power, 'cause he was get tin'himself power, all right. Dark days, Harry. Didn't know who ter trust,didn't dare get friendly with strange wizards or witches... terrible things happened. He was takin' over. 'Course, some stood up to him -an' he killed 'em. Horribly. One o' the only safe places left was Hogwarts. Reckon Dumbledore's the only one You-Know-Who was afraid of.
 
 Didn't dare try takin' the school, not jus' then, anyway.
 
@@ -284,8 +249,7 @@ Hagrid suddenly pulled out a very dirty, spotted handkerchief and blew his nose 
 42
 
 
-do it. Never wondered how you got that mark on yer forehead? That was no 
-ordinary cut. That's what yeh get when a Powerful, evil curse touches yeh -- took care of yer mum an' dad an' yer house, even -- but it didn't work on you, an' that's why yer famous, Harry. No one ever lived after he decided ter kill 'em, no one except you, an' he'd killed some o' the best witches an' wizards of the age -- the McKinnons, the Bones, the Prewetts -- an' you was only a baby, an' you lived." 
+do it. Never wondered how you got that mark on yer forehead? That was no ordinary cut. That's what yeh get when a Powerful, evil curse touches yeh -- took care of yer mum an' dad an' yer house, even -- but it didn't work on you, an' that's why yer famous, Harry. No one ever lived after he decided ter kill 'em, no one except you, an' he'd killed some o' the best witches an' wizards of the age -- the McKinnons, the Bones, the Prewetts -- an' you was only a baby, an' you lived." 
 
 Something very painful was going on in Harry's mind. As Hagrid's story came to a close, he saw again the blinding flash of green light, more clearly than he had ever remembered it before -- and he remembered something else, for the first time in his life: a high, cold, cruel laugh. 
 
@@ -317,7 +281,7 @@ Harry, meanwhile, still had questions to ask, hundreds of them.
 
 "Most of us reckon he's still out there somewhere but lost his powers. Too weak to carry on. 'Cause somethin' about you finished him, Harry. There was somethin' goin' on that night he hadn't counted on -- I dunno what it was, no one does -- but somethin' about you stumped him, all right." 
 
-Hagrid looked at Harry with warmth and respect blazing in his eyes, but Harry, instead of feeling pleased and proud, felt quite sure there had been a horrible mistake. A wizard? Him? How could he possibly be? He'd spent his life being clouted by Dudley, and bullied by Aunt Petunia and Uncle Vernon; if he was really a wizard, why hadn't they been turned into warty toads every time they'd tried to lock him in his cupboard? If he'd once defeated the greatest sorcerer in the world, how come Dudley had always been able to kick him around like a football? 
+Hagrid looked at Harry with warmth and respect blazing in his eyes, but Harry, instead of feeling pleased and proud, felt quite sure there had been a horrible mistake. A wizard? Him? How could he possibly be? He'd spent his life being ==clout==ed by Dudley, and ==bullied== by Aunt Petunia and Uncle Vernon; if he was really a wizard, why hadn't they been turned into warty toads every time they'd tried to lock him in his cupboard? If he'd once defeated the greatest sorcerer in the world, how come Dudley had always been able to kick him around like a football? 
 
 "Hagrid," he said quietly, "I think you must have made a mistake. I don't think I can be a wizard." 
 
@@ -330,14 +294,13 @@ Harry looked into the fire. Now he came to think about it... every odd thing tha
 44
 
 
-
-revenge, without even realizing he was doing it? Hadn't he set a boaconstrictor on him?
+revenge, without even realizing he was doing it? Hadn't he set a boa constrictor on him?
 
 
-Harry looked back at Hagrid, smiling, and saw that Hagrid was positivelybeaming at him.
+Harry looked back at Hagrid, smiling, and saw that Hagrid was positively ==beam==ing at him.
 
 
-"See?" said Hagrid. "Harry Potter, not a wizard -- you wait, you'll beright famous at Hogwarts."
+"See?" said Hagrid. "Harry Potter, not a wizard -- you wait, you'll be right famous at Hogwarts."
 
 
 But Uncle Vernon wasn't going to give in without a fight.
@@ -345,22 +308,21 @@ But Uncle Vernon wasn't going to give in without a fight.
 
 "Haven't I told you he's not going?" he hissed. "He's going to StonewallHigh and he'll be grateful for it. I've read those letters and he needsall sorts of rubbish -- spell books and wands and --"
 
+"If he wants ter go, a great Muggle like you won't stop him," growled Hagrid. 
 
-"If he wants ter go, a great Muggle like you won't stop him," growled Hagrid. "Stop Lily an' James Potter' s son goin' ter Hogwarts! Yer mad.His name's been down ever since he was born. He's off ter the finest school of witchcraft and wizardry in the world. Seven years there and hewon't know himself. He'll be with youngsters of his own sort, fer achange, an' he'll be under the greatest headmaster Hogwarts ever had Albus Dumbled--"
-
+"Stop Lily an' James Potter' s son goin' ter Hogwarts! Yer mad. His name's been down ever since he was born. He's off ter the finest school of witchcraft and wizardry in the world. Seven years there and hewon't know himself. He'll be with youngsters of his own sort, fer achange, an' he'll be under the greatest headmaster Hogwarts ever had Albus Dumbled--"
 
 "I AM NOT PAYING FOR SOME CRACKPOT OLD FOOL To TEACH HIM
-MAGIC TRICKS!"
-yelled Uncle Vernon.
+MAGIC TRICKS!" yelled Uncle Vernon.
 
 
-But he had finally gone too far. Hagrid seized his umbrella and whirledit over his head, "NEVER," he thundered, "- INSULT- ALBUS- DUMBLEDOREIN- FRONT- OF- ME!"
+But he had finally gone too far. Hagrid seized his umbrella and whirledit over his head, "NEVER," he thundered, "- INSULT- ALBUS- DUMBLEDORE IN- FRONT- OF- ME!"
 
 
-He brought the umbrella swishing down through the air to point at Dudley-- there was a flash of violet light, a sound like a firecracker, asharp squeal, and the next second, Dudley was dancing on the spot with his hands clasped over his fat bottom, howling in pain. When he turned his back on them, Harry saw a curlypig's tail poking through a hole inhis trousers.
+He brought the umbrella swishing down through the air to point at Dudley-- there was a flash of violet light, a sound like a firecracker, a sharp ==squeal==, and the next second, Dudley was dancing on the spot with his hands clasped over his fat bottom, howling in pain. When he turned his back on them, Harry saw a curlypig's tail poking through a hole in his trousers.
 
 
-Uncle Vernon roared. Pulling Aunt Petunia and Dudley into the otherroom, he cast one last terrified look at Hagrid and slammed the doorbehind them.
+Uncle Vernon roared. Pulling Aunt Petunia and Dudley into the other room, he cast one last terrified look at Hagrid and slammed the door behind them.
 
 
 Hagrid looked down at his umbrella and stroked his beard.
@@ -378,11 +340,11 @@ He cast a sideways look at Harry under his bushy eyebrows.
 
  "Why aren't you supposed to do magic?" asked Harry. 
 
-"Oh, well -- I was at Hogwarts meself but I -- er -- got expelled, ter tell yeh the truth. In me third year. They snapped me wand in half an' 
-everything. But Dumbledore let me stay on as gamekeeper. Great man, Dumbledore." "Why were you expelled?" 
+"Oh, well -- I was at Hogwarts meself but I -- er -- got expelled, ter tell yeh the truth. In me third year. They snapped me wand in half an' everything. But Dumbledore let me stay on as gamekeeper. Great man, Dumbledore." "Why were you expelled?" 
 
 "It's gettin' late and we've got lots ter do tomorrow," said Hagrid loudly. "Gotta get up ter town, get all yer books an' that." 
 
 He took off his thick black coat and threw it to Harry. 
 
 "You can kip under that," he said. "Don' mind if it wriggles a bit, I think I still got a couple o' dormice in one o' the pockets." 
+
