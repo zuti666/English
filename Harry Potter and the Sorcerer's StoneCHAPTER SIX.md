@@ -10,7 +10,6 @@ Harry's last month with the Dursleys wasn't fun. True, Dudley was now so scared 
 68
 
 
-
 Harry kept to his room, with his new owl for company. He had decided to call her Hedwig, a name he had found in A History of Magic. His school books were very interesting. He lay on his bed reading late into the night, Hedwig swooping in and out of the open window as she pleased. It was lucky that Aunt Petunia didn't come in to vacuum anymore, because Hedwig kept bringing back dead mice. Every night before he went to sleep, Harry ticked off another day on the piece of paper he had pinned to the wall, counting down to September the first. 
 
 On the last day of August he thought he'd better speak to his aunt and uncle about getting to King's Cross station the next day, so he went down to the living room where they were watching a quiz show on television. He cleared his throat to let them know he was there, and Dudley screamed and ran from the room. 
@@ -31,7 +30,7 @@ Grunt. Harry supposed that meant yes.
 
 He was about to go back upstairs when Uncle Vernon actually spoke. 
 
-"Funny way to get to a wizards' school, the train. Magic carpets all got punctures, have they?" 
+"Funny way to get to a wizards' school, the train. Magic carpets all got ==puncture==s, have they?" 
 
 Harry didn't say anything. 
 
@@ -98,7 +97,7 @@ Heart hammering, Harry pushed his cart after them. They stopped and so did he, j
 71
 
 first."
-What looked like the oldest boy marched toward platforms nine and ten.Harry watched, careful not to blink in case he missed it -- but just asthe boy reached the dividing barrier between the two platforms, a large crowd of tourists came swarming in front of him and by the time the lastbackpack had cleared away, the boy had vanished.
+What looked like the oldest boy marched toward platforms nine and ten. Harry watched, careful not to blink in case he missed it -- but just asthe boy reached the dividing barrier between the two platforms, a large crowd of tourists came swarming in front of him and by the time the last backpack had cleared away, the boy had vanished.
 
 "Fred, you next," the plump woman said.
 "I'm not Fred, I'm George," said the boy. "Honestly, woman, you call yourself our mother? CarA you tell I'm George?"
@@ -113,7 +112,7 @@ She pointed at the last and youngest of her sons. He was tall, thin, and ganglin
 
 "Yes," said Harry. "The thing is -- the thing is, I don't know how to--"
 "How to get onto the platform?" she said kindly, and Harry nodded.
-"Not to worry," she said. "All you have to do is walk straight at thebarrier between platforms nine and ten. Don't stop and don't be scared you'll crash into it, that's very important. Best do it at a bit of a run if you're nervous. Go on, go now before Ron." 
+"Not to worry," she said. "All you have to do is walk straight at the barrier between platforms nine and ten. Don't stop and don't be scared you'll crash into it, that's very important. Best do it at a bit of a run if you're nervous. Go on, go now before Ron." 
 
 "Er -- okay," said Harry. 
 
@@ -129,7 +128,7 @@ It didn't come... he kept on running... he opened his eyes. A scarlet steam engi
 
 Smoke from the engine drifted over the heads of the chattering crowd, while cats of every color wound here and there between their legs. Owls hooted to one another in a disgruntled sort of way over the babble and the scraping of heavy trunks. 
 
-The first few carriages were already packed with students, some hanging out of the window to talk to their families, some fighting over seats. Harry pushed his cart off down the platform in search of an empty seat. He passed a round-faced boy who was saying, "Gran, I've lost my toad again." 
+The first few carriages were already packed with students, some hanging out of the window to talk to their families, some fighting over seats. Harry pushed his cart off down the platform in search of an empty seat. He passed a round-faced boy who was saying, "Gran, I've lost my ==toad== again." 
 
 "Oh, Neville," he heard the old woman sigh. 
 
@@ -146,7 +145,7 @@ Harry pressed on through the crowd until he found an empty compartment near the 
 73
 
 the barrier.
-"Yes, please," Harry panted.
+"Yes, please," Harry ==pant==ed.
 "Oy, Fred! C'mere and help!"
 With the twins' help, Harry's trunk was at last tucked away in a corner of the compartment."Thanks," said Harry, pushing his sweaty hair out of his eyes.
 "What's that?" said one of the twins suddenly, pointing at Harry's lightning scar.
@@ -164,7 +163,7 @@ With a last look at Harry, the twins hopped off the train. Harry sat down next t
 The youngest boy tried to jerk out of the way, but she grabbed him and began rubbing the end of his nose.
 
 
-"Mom -- geroff" He wriggled free.
+"Mom -- ger off" He wriggled free.
 
 
 74
@@ -186,10 +185,8 @@ The oldest boy came striding into sight. He had already changed into his billowi
 "All summer --"
 "Oh, shut up," said Percy the Prefect.
 
-
 "How come Percy gets new robes, anyway?" said one of the twins.
-"Because he's a prefect," said their mother fondly. "All right, dear,
-well, have a good term -- send me an owl when you get there."
+"Because he's a prefect," said their mother fondly. "All right, dear,well, have a good term -- send me an owl when you get there."
 
 
 She kissed Percy on the cheek and he left. Then she turned to the twins.
@@ -217,16 +214,12 @@ Harry heard the little girl's voice.
 "Oh, Mom, can I go on the train and see him, Mom, eh please...."
 "You've already seen him, Ginny, and the poor boy isn't something you
 
-
 goggle at in a zoo. Is he really, Fred? How do you know?"
 "Asked him. Saw his scar. It's really there - like lightning."
-"Poor dear - no wonder he was alone, I wondered. He was ever so polite
-
-
-when he asked how to get onto the platform."
+"Poor dear - no wonder he was alone, I wondered. He was ever so polite when he asked how to get onto the platform."
 
 "Never mind that, do you think he remembers what You-Know-Who looks like?"
-Their mother suddenly became very stern.
+Their mother suddenly became very ==stern==.
 "I forbid you to ask him, Fred. No, don't you dare. As though he needs reminding of that on his first day at school."
 "All right, keep your hair on."
 A whistle sounded.
@@ -245,7 +238,7 @@ The train began to move. Harry saw the boys' mother waving and their sister, hal
 Harry watched the girl and her mother disappear as the train rounded the corner. Houses flashed past the window. Harry felt a great leap of excitement. He didn't know what he was going to but it had to be better
 than what he was leaving behind.
 
-The door of the compartment slid open and the youngest redheaded boy came in.
+The door of the compartment slid open and the youngest red headed boy came in.
 "Anyone sitting there?" he asked, pointing at the seat opposite Harry.
 "Everywhere else is full."
 
@@ -256,17 +249,13 @@ Harry shook his head and the boy sat down. He glanced at Harry and then looked q
 The twins were back.
 "Listen, we're going down the middle of the train -- Lee Jordan's got a giant tarantula down there."
 "Right," mumbled Ron.
-"Harry," said the other twin, "did we introduce ourselves? Fred and
-
-
-George Weasley. And this is Ron, our brother. See you later, then.
+"Harry," said the other twin, "did we introduce ourselves? Fred and George Weasley. And this is Ron, our brother. See you later, then.
 
 
 77
 
-
 "Bye," said Harry and Ron. The twins slid the compartment door shut behind them.
-"Are you really Harry Potter?" Ron blurted out.
+"Are you really Harry Potter?" Ron ==blurted out.==
 
 Harry nodded.
 "Oh -well, I thought it might be one of Fred and George's jokes," said Ron. "And have you really got -- you know..."
@@ -286,10 +275,8 @@ Harry pulled back his bangs to show the lightning scar. Ron stared.
 "So you must know loads of magic already."
 The Weasleys were clearly one of those old wizarding families the pale boy in Diagon Alley had talked about.
 
-
 "I heard you went to live with Muggles," said Ron. "What are they like?"
-"Horrible -well, not all of them. My aunt and uncle and cousin are,
-though. Wish I'd had three wizard brothers."
+"Horrible -well, not all of them. My aunt and uncle and cousin are,though. Wish I'd had three wizard brothers."
 
 
 78
@@ -307,7 +294,7 @@ Ron's ears went pink. He seemed to think he'd said too much, because he went bac
 
 Harry didn't think there was anything wrong with not being able to afford an owl. After all, he'd never had any money in his life until a month ago, and he told Ron so, all about having to wear Dudley's old clothes and never getting proper birthday presents. This seemed to cheer Ron up. 
 
-"... and until Hagrid told me, I didn't know anything about be ing a wizard or about my parents or Voldemort" 
+"... and until Hagrid told me, I didn't know anything about being a wizard or about my parents or Voldemort" 
 
 Ron gasped. 
 
@@ -322,7 +309,6 @@ Ron gasped.
 79
 
 
-
 While they had been talking, the train had carried them out of London. Now they were speeding past fields full of cows and sheep. They were quiet for a time, watching the fields and lanes flick past. 
 
 Around half past twelve there was a great clattering outside in the corridor and a smiling, dimpled woman slid back their door and said, 
@@ -336,7 +322,7 @@ Ron stared as Harry brought it all back in to the compartment and tipped it onto
 
 "Hungry, are you?" 
 
-"Starving," said Harry, taking a large bite out of a pumpkin pasty. 
+"Starving," said Harry, taking a large bite out of a ==pumpkin== ==pasty==. 
 
 Ron had taken out a lumpy package and unwrapped it. There were four sandwiches inside. He pulled one of them apart and said, "She always forgets I don't like corned beef." 
 
@@ -349,7 +335,6 @@ Ron had taken out a lumpy package and unwrapped it. There were four sandwiches i
 80
 
 
-
 "What are these?" Harry asked Ron, holding up a pack of Chocolate Frogs. 
 "They're not really frogs, are they?" He was starting to feel that nothing would surprise him. 
 
@@ -363,13 +348,13 @@ Harry unwrapped his Chocolate Frog and picked up the card. It showed a man's fac
 
 "So this is Dumbledore!" said Harry. 
 
-"Don't tell me you'd never heard of Dumbledore!" said Ron. "Can I have a frog? I might get Agrippa -- thanks 
+"Don't tell me you'd never heard of Dumbledore!" said Ron. 
+
+"Can I have a frog? I might get Agrippa -- thanks 
 
 Harry turned over his card and read: 
 
-ALBUS DUMBLEDORE 
-
-CURRENTLY HEADMASTER OF HOGWARTS 
+ALBUS DUMBLEDORE CURRENTLY HEADMASTER OF HOGWARTS 
 
 Considered by many the greatest wizard of modern times, Dumbledore is particularly famous for his defeat of the dark wizard Grindelwald in 1945, for the discovery of the twelve uses of dragon's blood, and his work on alchemy with his partner, Nicolas Flamel. Professor Dumbledore enjoys chamber music and tenpin bowling. 
 
@@ -401,7 +386,7 @@ They had a good time eating the Every Flavor Beans. Harry got toast, coconut, ba
 
 The countryside now flying past the window was becoming wilder. The neat fields had gone. Now there were woods, twisting rivers, and dark green hills. 
 
-There was a knock on the door of their compartment and the round-faced boy Harry had passed on platform nine and threequarters came in. He looked tearful. 
+There was a knock on the door of their compartment and the round-faced boy Harry had passed on platform nine and three quarters came in. He looked tearful. 
 
 "Sorry," he said, "but have you seen a toad at all?" 
 
@@ -419,13 +404,12 @@ The rat was still snoozing on Ron's lap.
 "He might have died and you wouldn't know the difference," said Ron indisgust. "I tried to turn him yellow yesterday to make him more interesting, but the spell didn't work. I'll show you, look..."
 
 
-He rummaged around in his trunk and pulled out a very battered-lookingwand. It was chipped in places and something white was glinting at theend.
+He rummaged around in his trunk and pulled out a very battered-looking wand. It was chipped in places and something white was glinting at the end.
 
 
-"Unicorn hair's nearly poking out. Anyway
-He had just raised his 'wand when the compartment door slid open again.
+"Unicorn hair's nearly poking out. Anyway He had just raised his 'wand when the compartment door slid open again.
 
-The toadless boy was back, but this time he had a girl with him. She was already wearing her new Hogwarts robes.
+The toad less boy was back, but this time he had a girl with him. She was already wearing her new Hogwarts robes.
 "Has anyone seen a toad? Neville's lost one," she said. She had a bossy sort of voice, lots of bushy brown hair, and rather large front teeth.
 
 "We've already told him we haven't seen it," said Ron, but the girl wasn't listening, she was looking at the wand in his hand.
@@ -445,7 +429,7 @@ He waved his wand, but nothing happened. Scabbers stayed gray and fast asleep.
 
 She said all this very fast. 
 
-Harry looked at Ron, and was relieved to see by his stunned face that he hadn't learned all the course books by heart either. 
+Harry looked at Ron, and was relieved to see by his ==stun==ned face that he hadn't learned all the course books by heart either. 
 
 "I'm Ron Weasley," Ron muttered. 
 
@@ -459,7 +443,7 @@ Harry looked at Ron, and was relieved to see by his stunned face that he hadn't 
 
 And she left, taking the toadless boy with her. 
 
-"Whatever house I'm in, I hope she's not in it," said Ron. He threw his wand back into his trunk. "Stupid spell -- George gave it to me, bet he knew it was a dud." 
+"Whatever house I'm in, I hope she's not in it," said Ron. He threw his wand back into his trunk. "Stupid spell -- George gave it to me, bet he knew it was a ==dud.==" 
 
 "What house are your brothers in?" asked Harry. 
 
@@ -477,9 +461,7 @@ And she left, taking the toadless boy with her.
 
 Harry was wondering what a wizard did once he'd finished school. 
 
-"Charlie's in Romania studying dragons, and Bill's in Africa doing something for Gringotts," said Ron. "Did you hear about 
-
-Gringotts? It's been all over the Daily Prophet, but I don't suppose you get that with the Muggles -- someone tried to rob a high security vault." 
+"Charlie's in Romania studying dragons, and Bill's in Africa doing something for Gringotts," said Ron. "Did you hear about Gringotts? It's been all over the Daily Prophet, but I don't suppose you get that with the Muggles -- someone tried to rob a high security vault." 
 
 Harry stared. 
 
@@ -498,7 +480,7 @@ Harry turned this news over in his mind. He was starting to get a prickle of fea
 85
 
 
-world --" And he was off, explaining all about the four balls and the positions of the seven players, describing famous games he'd been to with his brothers and the broomstick he'd like to get if he had the money. He was just taking Harry through the finer points of the game when the compartment door slid open yet again, but it wasn't Neville the toadless boy, or Hermione Granger this time.
+world --" And he was off, explaining all about the four balls and the positions of the seven players, describing famous games he'd been to with his brothers and the broomstick he'd like to get if he had the money. He was just taking Harry through the finer points of the game when the compartment door slid open yet again, but it wasn't Neville the toad less boy, or Hermione Granger this time.
 
 
 Three boys entered, and Harry recognized the middle one at once: it was the pale boy from Madam Malkin's robe shop. He was looking at Harry with a lot more interest than he'd shown back in Diagon Alley.
@@ -507,13 +489,13 @@ Three boys entered, and Harry recognized the middle one at once: it was the pale
 "Is it true?" he said. "They're saying all down the train that Harry Potter's in this compartment. So it's you, is it?"
 
 
-"Yes," said Harry. He was looking at the other boys. Both of them werethickset and looked extremely mean. Standing on either side of the paleboy, they looked like bodyguards.
+"Yes," said Harry. He was looking at the other boys. Both of them were thickset and looked extremely mean. Standing on either side of the paleboy, they looked like bodyguards.
 
 
 "Oh, this is Crabbe and this is Goyle," said the pale boy carelessly,noticing where Harry was looking. "And my name's Malfoy, Draco Malfoy."
 
 
-Ron gave a slight cough, which might have been hiding a snigget. DracoMalfoy looked at him.
+Ron gave a slight cough, which might have been hiding a snigget. Draco Malfoy looked at him.
 
 
 "Think my name's funny, do you? No need to ask who you are. My fathe told me all the Weasleys have red hair, freckles, and more children than they can afford."
@@ -531,13 +513,12 @@ He held out his hand to shake Harry's, but Harry didn't take it.
 Draco Malfoy didn't go red, but a pink tinge appeared in his pale cheeks.
 
 
-"I'd be careful if I were you, Potter," he said slowly. "Unless you're a bit politer you'll go the same way as your parents. They didn't know what was good for them, either. You hang around with riffraff like the
+"I'd be careful if I were you, Potter," he said slowly. "Unless you're a bit politer you'll go the same way as your parents. They didn't know what was good for them, either. You hang around with ==riffraff== like the
 
 
 86
 
 
-
 Weasleys and that Hagrid, and it'll rub off on you." 
 
 Both Harry and Ron stood up. 
@@ -556,7 +537,9 @@ Scabbers the rat was hanging off his finger, sharp little teeth sunk deep into G
 
 "What has been going on?" she said, looking at the sweets all over the floor and Ron picking up Scabbers by his tail. 
 
-I think he's been knocked out," Ron said to Harry. He looked closer at Scabbers. "No -- I don't believe it -- he's gone back to sleep-" 
+I think he's been knocked out," Ron said to Harry. He looked closer at Scabbers.
+
+ "No -- I don't believe it -- he's gone back to sleep-" 
 
 And so he had. 
 
@@ -580,7 +563,7 @@ Ron glared at her as she left. Harry peered out of the window. It was getting da
 
 He and Ron took off their jackets and pulled on their long black robes. Ron's were a bit short for him, you could see his sneakers underneath them. 
 
-A voice echoed through the train: "We will be reaching Hogwarts in five minutes' time. Please leave your luggage on the train, it will be taken to the school separately." 
+A voice ==echoed== through the train: "We will be reaching Hogwarts in five minutes' time. Please leave your luggage on the train, it will be taken to the school separately." 
 
 Harry's stomach lurched with nerves and Ron, he saw, looked pale under his freckles. They crammed their pockets with the last of the sweets and joined the crowd thronging the corridor. 
 
@@ -600,7 +583,7 @@ Slipping and stumbling, they followed Hagrid down what seemed to be a steep, nar
 
 There was a loud "Oooooh!" 
 
-The narrow path had opened suddenly onto the edge of a great black take. Perched atop a high mountain on the other side, its windows sparkling in the starry sky, was a vast castle with many turrets and towers. 
+The narrow path had opened suddenly onto the edge of a great black take. Perched atop a high mountain on the other side, its windows ==sparkling== in the ==starry== sky, was a vast castle with many turrets and towers. 
 
 "No more'n four to a boat!" Hagrid called, pointing to a fleet of little boats sitting in the water by the shore. Harry and Ron were followed into their boat by Neville and Hermione. "Everyone in?" shouted Hagrid, who had a boat to himself. "Right then -- FORWARD!" 
 
@@ -610,12 +593,12 @@ And the fleet of little boats moved off all at once, gliding across the lake, wh
 
 "Oy, you there! Is this your toad?" said Hagrid, who was checking the boats as people climbed out of them. 
 
-"Trevor!" cried Neville blissfully, holding out his hands. Then they clambered up a passageway in the rock after Hagrid's lamp, coming out at last onto smooth, damp grass right in the shadow of the castle. 
+"Trevor!" cried Neville blissfully, holding out his hands. Then they ==clambere==d up a passageway in the rock after Hagrid's lamp, coming out at last onto smooth, damp grass right in the shadow of the castle. 
 
 They walked up a flight of stone steps and crowded around the huge, Oak front door. 
 
 "Everyone here? You there, still got yer toad?" 
 
-Hagrid raised a gigantic fist and knocked three times on the castle door. 
+Hagrid raised a ==gigantic== fist and knocked three times on the castle door. 
 
 89
