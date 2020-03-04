@@ -7,7 +7,6 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://dict.eudic.net/webting/play?id=8a7b0636-af96-4896-9422-10b3a1543118&order=0"></iframe>
 
 
-
 Harry woke early the next morning. Although he could tell it was daylight, he kept his eyes shut tight. 
 
 "It was a dream, he told himself firmly. "I dreamed a giant called Hagrid came to tell me I was going to a school for wizards. When I open my eyes I'll be at home in my cupboard." 
@@ -150,7 +149,7 @@ First-year students will require:
 4. One winter cloak (black, silver fastenings)
 
    Please note that all pupils' clothes should carry name tags 
-  COURSE BOOKS 
+    COURSE BOOKS 
 
   All students should have a copy of each of the following: 
   The Standard Book of Spells (Grade 1) by Miranda Goshawk 
@@ -292,13 +291,13 @@ The goblin was about a head shorter than Harry. He had a swarthy, clever face, a
 
 Now they were facing a second pair of doors, silver this time, with words engraved upon them: 
 
-Enter, stranger, but take heed Of what awaits the sin of greed, 
+​		Enter, stranger, but take heed Of what awaits the sin of greed, 
 
-For those who take, but do not earn, Must pay most dearly in their turn. 
+​		For those who take, but do not earn, Must pay most dearly in their turn. 
 
-So if you seek beneath our floors A treasure that was never yours, 
+​		So if you seek beneath our floors A treasure that was never yours, 
 
-Thief, you have been warned, beware Of finding more than treasure there. 
+​		Thief, you have been warned, beware Of finding more than treasure there. 
 
 "Like I said, Yeh'd be mad ter try an' rob it," said Hagrid. 
 
@@ -328,7 +327,7 @@ The goblin read the letter carefully.
 
 "Very well," he said, handing it back to Hagrid, "I will have Someone take you down to both vaults. Griphook!" 
 
-Griphook was yet another goblin. Once Hagrid had crammed all the dog biscuits back inside his pockets, he and Harry followed Griphook toward one of the doors leading off the hall. 
+Griphook was yet another goblin. Once Hagrid had ==cram==med all the dog biscuits back inside his pockets, he and Harry followed Griphook toward one of the doors leading off the hall. 
 
 "What's the You-Know-What in vault seven hundred and thirteen?" Harry asked. 
 
@@ -339,10 +338,10 @@ Griphook was yet another goblin. Once Hagrid had crammed all the dog biscuits ba
 
 Griphook held the door open for them. Harry, who had expected more marble, was surprised. They were in a narrow stone passageway lit with flaming torches. It sloped steeply downward and there were little railway tracks on the floor. Griphook whistled and a small cart came hurtling up the tracks toward them. They climbed in -- Hagrid with some difficulty -- and were off. 
 
-At first they just hurtled through a maze of twisting passages. Harry tried to remember, left, right, right, left, middle fork, right, left, but it was impossible. The rattling cart seemed to know its own way, because Griphook wasn't steering. 
+At first they just hurtled through a ==maze== of twisting passages. Harry tried to remember, left, right, right, left, middle fork, right, left, but it was impossible. The rattling cart seemed to know its own way, because Griphook wasn't steering. 
 
 Harry's eyes stung as the cold air rushed past them, but he kept them wide open. Once, he thought he saw a burst of fire at the end of a passage and twisted around to see if it was a dragon, but too late - 
-they plunged even deeper, passing an underground lake where huge stalactites and stalagmites grew from the ceiling and floor. 
+they plunged even deeper, passing an underground lake where huge ==stalactites== and ==stalagmites== grew from the ceiling and floor. 
 
 I never know," Harry called to Hagrid over the noise of the cart, "what's the difference between a stalagmite and a stalactite?" 
 
@@ -380,9 +379,9 @@ Vault seven hundred and thirteen had no keyhole.
 
 "About once every ten years," said Griphook with a rather nasty grin. 
 
-Something really extraordinary had to be inside this top security vault, Harry was sure, and he leaned forward eagerly, expecting to see fabulous jewels at the very least -- but at first he thought it was empty. Then he noticed a grubby little package wrapped up in brown paper lying on the floor. Hagrid picked it up and tucked it deep inside his coat. Harry longed to know what it was, but knew better than to ask. 
+Something really extraordinary had to be inside this top security vault, Harry was sure, and he leaned forward eagerly, expecting to see ==fabulous== jewels at the very least -- but at first he thought it was empty. Then he noticed a grubby little package wrapped up in brown paper lying on the floor. Hagrid picked it up and tucked it deep inside his coat. Harry longed to know what it was, but knew better than to ask. 
 
-"Come on, back in this infernal cart, and don't talk to me on the way back, it's best if I keep me mouth shut," said Hagrid. 
+"Come on, back in this ==infernal== cart, and don't talk to me on the way back, it's best if I keep me mouth shut," said Hagrid. 
 
 One wild cart ride later they stood blinking in the sunlight outside Gringotts. Harry didn't know where to run first now that he had a bag full of money. He didn't have to know how many Galleons there were to a 
 pound to know that he was holding more money than he'd had in his whole life -- more money than even Dudley had ever had. 
@@ -395,11 +394,11 @@ pound to know that he was holding more money than he'd had in his whole life -- 
 
 slipped off fer a pick-me-up in the Leaky Cauldron? I hate them Gringotts carts." He did still look a bit sick, so Harry entered Madam Malkin's shop alone, feeling nervous. 
 
-Madam Malkin was a squat, smiling witch dressed all in mauve. 
+Madam Malkin was a squat, smiling witch dressed all in ==mauve==. 
 
 "Hogwarts, clear?" she said, when Harry started to speak. "Got the lot here -- another young man being fitted up just now, in fact. " 
 
-In the back of the shop, a boy with a pale, pointed face was standing on a footstool while a second witch pinned up his long black robes. Madam Malkin stood Harry on a stool next to him) slipped a long robe over his head, and began to pin it to the right length. 
+In the back of the shop, a boy with a pale, pointed face was standing on a footstool while a second witch pinned up his long black robes. Madam Malkin stood Harry on a stool next to him slipped a long robe over his head, and began to pin it to the right length. 
 
 "Hello," said the boy, "Hogwarts, too?" 
 
@@ -428,18 +427,17 @@ Harry was strongly reminded of Dudley.
 
 "I say, look at that man!" said the boy suddenly, nodding toward the front window. Hagrid was standing there, grinning at Harry and pointing at two large ice creams to show he couldn't come in. 
 
-"That's Hagrid," said Harry, pleased to know something the boy didn't. 
-"He works at Hogwarts." 
+"That's Hagrid," said Harry, pleased to know something the boy didn't. "He works at Hogwarts." 
 
 "Oh," said the boy, "I've heard of him. He's a sort of servant, isn't he?" 
 
 "He's the gamekeeper," said Harry. He was liking the boy less and less every second. 
 
-"Yes, exactly. I heard he's a sort of savage -- lives in a hut on the school grounds and every now and then he gets drunk, tries to do magic, and ends up setting fire to his bed." 
+"Yes, exactly. I heard he's a sort of ==savage== -- lives in a hut on the school grounds and every now and then he gets drunk, tries to do magic, and ends up setting fire to his bed." 
 
 "I think he's brilliant," said Harry coldly. 
 
-"Do you?" said the boy, with a slight sneer. "Why is he with you? Where are your parents?" 
+"Do you?" said the boy, with a slight ==sneer==. "Why is he with you? Where are your parents?" 
 
 "They're dead," said Harry shortly. He didn't feel much like going into the matter with this boy. 
 
@@ -456,18 +454,17 @@ But before Harry could answer, Madam Malkin said, "That's you done, my dear," an
 61
 
 
-
-Harry was rather quiet as he ate the ice cream Hagrid had bought him (chocolate and raspberry with chopped nuts). 
+Harry was rather quiet as he ate the ice cream Hagrid had bought him (chocolate and ==raspberry== with chopped nuts). 
 
 "What's up?" said Hagrid. 
 
-"Nothing," Harry lied. They stopped to buy parchment and quills. Harry cheered up a bit when he found a bottle of ink that changed color as you wrote. When they had left the shop, he said, "Hagrid, what's Quidditch?" 
+"Nothing," Harry lied. They stopped to buy parchment and quills. Harry cheered up a bit when he found a bottle of ink that changed color as you wrote. 
+
+When they had left the shop, he said, "Hagrid, what's Quidditch?" 
 
 "Blimey, Harry, I keep forgettin' how little yeh know -- not knowin' about Quidditch!" 
 
-"Don't make me feel worse," said Harry. He told Hagrid about the pate boy in Madam Malkin's. 
-
-"--and he said people from Muggle families shouldn't even be allowed in." 
+"Don't make me feel worse," said Harry. He told Hagrid about the pate boy in Madam Malkin's. "--and he said people from Muggle families shouldn't even be allowed in." 
 
 "Yer not from a Muggle family. If he'd known who yeh were -- he's grown up knowin' yer name if his parents are wizardin' folk. You saw what everyone in the Leaky Cauldron was like when they saw yeh. Anyway, what does he know about it, some o' the best I ever saw were the only ones with magic in 'em in a long line 0' Muggles -- look at yer mum! Look what she had fer a sister!" 
 
@@ -496,7 +493,11 @@ They bought Harry's school books in a shop called Flourish and Blotts where the 
 
 "I'm not sayin' that's not a good idea, but yer not ter use magic in the Muggle world except in very special circumstances," said Hagrid. "An' anyway, yeh couldn' work any of them curses yet, yeh'll need a lot more study before yeh get ter that level." 
 
-Hagrid wouldn't let Harry buy a solid gold cauldron, either ("It says pewter on yer list"), but they got a nice set of scales for weighing potion ingredients and a collapsible brass telescope. Then they visited the Apothecary, which was fascinating enough to make up for its horrible smell, a mixture of bad eggs and rotted cabbages. Barrels of slimy stuff stood on the floor; jars of herbs, dried roots, and bright powders lined the walls; bundles of feathers, strings of fangs, and snarled claws hung from the ceiling. While Hagrid asked the man behind the counter for a supply of some basic potion ingredients for Harry, Harry himself examined silver unicorn horns at twenty-one Galleons each and minuscule, glittery-black beetle eyes (five Knuts a scoop). 
+Hagrid wouldn't let Harry buy a solid gold cauldron, either ("It says pewter on yer list"), but they got a nice set of scales for weighing potion ingredients and a collapsible brass telescope.
+
+ Then they visited the Apothecary, which was fascinating enough to make up for its horrible smell, a mixture of bad eggs and rotted cabbages. Barrels of slimy stuff stood on the floor; jars of herbs, dried roots, and bright powders lined the walls; bundles of feathers, strings of fangs, and snarled claws hung from the ceiling. 
+
+While Hagrid asked the man behind the counter for a supply of some basic potion ingredients for Harry, Harry himself examined silver unicorn horns at twenty-one Galleons each and minuscule, glittery-black beetle eyes (five Knuts a scoop). 
 
 Outside the Apothecary, Hagrid checked Harry's list again. 
 
@@ -526,8 +527,7 @@ A tinkling bell rang somewhere in the depths of the shop as they stepped inside.
 
 "Good afternoon," said a soft voice. Harry jumped. Hagrid must have jumped, too, because there was a loud crunching noise and he got quickly off the spindly chair. 
 
-An old man was standing before them, his wide, pale eyes shining like 
-moons through the gloom of the shop. 
+An old man was standing before them, his wide, pale eyes shining like moons through the gloom of the shop. 
 
 "Hello," said Harry awkwardly. 
 
@@ -543,10 +543,10 @@ Mr. Ollivander moved closer to Harry. Harry wished he would blink. Those
 silvery eyes were a bit creepy.
 
 
-"Your father, on the other hand, favored a mahogany wand. Eleven inches.Pliable. A little more power and excellent for transfiguration. Well, Isay your father favored it -- it's really the wand that chooses thewizard, of course."
+"Your father, on the other hand, favored a mahogany wand. Eleven inches. Pliable. A little more power and excellent for transfiguration. Well, Isay your father favored it -- it's really the wand that chooses thewizard, of course."
 
 
-Mr. Ollivander had come so close that he and Harry were almost nose tonose. Harry could see himself reflected in those misty eyes.
+Mr. Ollivander had come so close that he and Harry were almost nose to nose. Harry could see himself reflected in those misty eyes.
 
 
 "And that's where..."
@@ -560,13 +560,13 @@ Mr. Ollivander touched the lightning scar on Harry's forehead with along, white 
 
 He shook his head and then, to Harry's relief, spotted Hagrid.
 
-"Rubeus! Rubeus Hagrid! How nice to see you again.... Oak, sixteeninches, rather bendy, wasn't it?"
+"Rubeus! Rubeus Hagrid! How nice to see you again.... Oak, sixteen inches, rather bendy, wasn't it?"
 
 
 "It was, sir, yes," said Hagrid.
 
 
-"Good wand, that one. But I suppose they snapped it in half when you gotexpelled?" said Mr. Ollivander, suddenly stern.
+"Good wand, that one. But I suppose they snapped it in half when you got expelled?" said Mr. Ollivander, suddenly stern.
 
 
 "Er -- yes, they did, yes," said Hagrid, shuffling his feet. "I've stillgot the pieces, though," he added brightly.
@@ -575,10 +575,10 @@ He shook his head and then, to Harry's relief, spotted Hagrid.
 "But you don't use them?" said Mr. Ollivander sharply.
 
 
-"Oh, no, sit," said Hagrid quickly. Harry noticed he gripped his pinkumbrella very tightly as he spoke.
+"Oh, no, sit," said Hagrid quickly. Harry noticed he gripped his pink umbrella very tightly as he spoke.
 
 
-"Hmmm," said Mr. Ollivander, giving Hagrid a piercing look. "Well, now-- Mr. Potter. Let me see." He pulled a long tape measure with silvermarkings out of his pocket. "Which is your wand arm?"
+"Hmmm," said Mr. Ollivander, giving Hagrid a piercing look. "Well, now-- Mr. Potter. Let me see." He pulled a long tape measure with silver markings out of his pocket. "Which is your wand arm?"
 
 
 "Er -- well, I'm right-handed," said Harry.
@@ -640,8 +640,7 @@ He bought Harry a hamburger and they sat down on plastic seats to eat them. Harr
 
 
 
-Harry wasn't sure he could explain. He'd just had the best birthday of his life -- and yet -- he chewed his hamburger, trying to find the 
-words. 
+Harry wasn't sure he could explain. He'd just had the best birthday of his life -- and yet -- he chewed his hamburger, trying to find the words. 
 
 "Everyone thinks I'm special," he said at last. "All those people in the Leaky Cauldron, Professor Quirrell, Mr. Ollivander... but I don't know anything about magic at all. How can they expect great things? I'm famous and I can't even remember what I'm famous for. I don't know what happened when Vol-, sorry -- I mean, the night my parents died." 
 
