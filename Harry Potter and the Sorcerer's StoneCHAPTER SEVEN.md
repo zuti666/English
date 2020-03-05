@@ -5,19 +5,19 @@
 ## THE SORTING HAT 
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://dict.eudic.net/webting/play?id=58fc5223-5596-4608-abae-770bebf9b6a4&order=0"></iframe>
-The door swung open at once. A tall, black-haired witch in emerald-green robes stood there. She had a very stern face and Harry's first thought was that this was not someone to cross. 
+The door swung open at once. A tall, black-haired witch in ==emerald-green== robes stood there. She had a very ==stern== face and Harry's first thought was that this was not someone to cross. 
 
 "The firs' years, Professor McGonagall," said Hagrid. 
 
 "Thank you, Hagrid. I will take them from here." 
 
-She pulled the door wide. The entrance hall was so big you could have fit the whole of the Dursleys' house in it. The stone walls were lit with flaming torches like the ones at Gringotts, the ceiling was too high to make out, and a magnificent marble staircase facing them led to the upper floors. 
+She pulled the door wide. The hall was so big you could have fit the whole of the Dursleys' house in it. The stone walls were lit with flaming torches like the ones at Gringotts, the ceiling was too high to make out, and a magnificent marble staircase facing them led to the upper floors. 
 
 They followed Professor McGonagall across the flagged stone floor. Harry could hear the drone of hundreds of voices from a doorway to the right -the rest of the school must already be here -- but Professor McGonagall showed the first years into a small, empty chamber off the hall. They crowded in, standing rather closer together than they would usually have done, peering about nervously. 
 
 "Welcome to Hogwarts," said Professor McGonagall. "The start-of-term banquet will begin shortly, but before you take your seats in the Great Hall, you will be sorted into your houses. The Sorting is a very important ceremony because, while you are here, your house will be something like your family within Hogwarts. You will have classes with the rest of your house, sleep in your house dormitory, and spend free time in your house common room. 
 
-"The four houses are called Gryffindor, Hufflepuff, Ravenclaw, and Slytherin. Each house has its own noble history and each has produced outstanding witches and wizards. While you are at Hogwarts, your triumphs will earn your house points, while any rulebreaking will lose house points. At the end of the year, the house with the most points is awarded the house cup, a great honor. I hope each of you will be a credit to whichever house becomes yours. 
+"The four houses are called ==Gryffindor==, ==Hufflepuff==, ==Ravenclaw==, and ==Slytherin==. Each house has its own noble history and each has produced outstanding witches and wizards. While you are at Hogwarts, your ==triumphs== will earn your house points, while any rule breaking will lose house points. At the end of the year, the house with the most points is awarded the house cup, a great honor. I hope each of you will be a credit to whichever house becomes yours. 
 
 "The Sorting Ceremony will take place in a few minutes in front of the rest of the school. I suggest you all smarten yourselves up as much as 
 
@@ -29,8 +29,7 @@ you can while you are waiting."
 
 Her eyes lingered for a moment on Neville's cloak, which was fastened under his left ear, and on Ron's smudged nose. Harry nervously tried to flatten his hair. 
 
-"I shall return when we are ready for you," said Professor McGonagall. 
-"Please wait quietly." 
+"I shall return when we are ready for you," said Professor McGonagall. "Please wait quietly." 
 
 She left the chamber. Harry swallowed. 
 
@@ -59,7 +58,7 @@ Nobody answered.
 
 "New students!" said the Fat Friar, smiling around at them. "About to be Sorted, I suppose?" 
 
-A few people nodded mutely. 
+A few people nodded ==mutely==. 
 
 "Hope to see you in Hufflepuff!" said the Friar. "My old house, you know." 
 
@@ -71,7 +70,7 @@ Professor McGonagall had returned. One by one, the ghosts floated away through t
 
 Feeling oddly as though his legs had turned to lead, Harry got into line behind a boy with sandy hair, with Ron behind him, and they walked out of the chamber, back across the hall, and through a pair of double doors into the Great Hall. 
 
-Harry had never even imagined such a strange and splendid place. It was lit by thousands and thousands of candles that were floating in midair over four long tables, where the rest of the students were sitting. 
+Harry had never even imagined such a strange and ==splendid== place. It was lit by thousands and thousands of candles that were floating in midair over four long tables, where the rest of the students were sitting. 
 These tables were laid with glittering golden plates and goblets. At the top of the hall was another long table where the teachers were sitting. Professor McGonagall led the first years up here, so that they came to a halt in a line facing the other students, with the teachers behind them. 
 The hundreds of faces staring at them looked like pale lanterns in the flickering candlelight. Dotted here and there among the students, the ghosts shone misty silver. Mainly to avoid all the staring eyes, Harry looked upward and saw a velvety black ceiling dotted with stars. He heard Hermione whisper, "Its bewitched to look like the sky outside. I read about it in Hogwarts, A History." 
 
@@ -85,65 +84,53 @@ Great Hall didn't simply open on to the heavens. Harry quickly looked down again
 
 Maybe they had to try and get a rabbit out of it, Harry thought wildly, that seemed the sort of thing -- noticing that everyone in the hall was now staring at the hat, he stared at it, too. For a few seconds, there was complete silence. Then the hat twitched. A rip near the brim opened wide like a mouth -- and the hat began to sing: 
 
-"Oh, you may not think I'm pretty, 
+​	"Oh, you may not think I'm pretty, 
 
-But don't judge on what you see, I'll eat myself if you can find A smarter hat than me. 
+​	But don't judge on what you see, I'll eat myself if you can find A smarter hat than me. 
 
-You can keep your bowlers black, Your top hats sleek and tall, 
+​	You can keep your bowlers black, Your top hats sleek and tall, 
 
-For I'm the Hogwarts Sorting Hat And I can cap them all. 
+​	For I'm the Hogwarts Sorting Hat And I can cap them all. 
 
-There's nothing hidden in your head The Sorting Hat can't see, 
+​	There's nothing hidden in your head The Sorting Hat can't see, 
 
-So try me on and I will tell you Where you ought to be. 
+​	So try me on and I will tell you Where you ought to be. 
 
-You might belong in Gryffindor, Where dwell the brave at heart, 
-
-Their daring, nerve, and chivalry Set Gryffindors apart; 
+​	You might belong in Gryffindor, Where dwell the brave at heart, Their daring, nerve, and chivalry Set Gryffindors apart; 
 
 93
 
+​	You might belong in Hufflepuff, Where they are just and loyal, Those patient Hufflepuffis are true And unafraid of toil;
+​	Or yet in wise old Ravenclaw,if you've a ready mind, Where those of wit and learning,Will always find their kind;
+​	Or perhaps in Slytherin You'll make your real friends,Those cunning folk use any means .To achieve their ends. 
 
-You might belong in Hufflepuff,
-Where they are just and loyal, Those patient Hufflepuffis are true And unafraid of toil;
-Or yet in wise old Ravenclaw,if you've a ready mind,
-Where those of wit and learning,Will always find their kind;
-Or perhaps in Slytherin You'll make your real friends,Those cunning folk use any means
-To achieve their ends. So put me on! Don't be afraid!
-And don't get in a flap!
-You're in safe hands (though I have none)
-For I'm a Thinking Cap!"
-The whole hall burst into applause as the hat finished its song. It
+​	So put me on! Don't be afraid! And don't get in a flap!
+​	You're in safe hands (though I have none) For I'm a Thinking Cap!"
+The whole hall burst into applause as the hat finished its song. It bowed to each of the four tables and then became quite still again.
 
 
-bowed to each of the four tables and then became quite still again.
-
-
-"So we've just got to try on the hat!" Ron whispered to Harry. "I'll kill Fred, he was going on about wrestling a troll." Harry. smiled weakly. Yes, trying on the hat was a lot better than having to do a spell, but he did wish they could have tried it on without everyone watching. The hat seemed to be asking rather alot; Harry didn't feel brave or quick-witted or any of it at the moment. If only the hat had mentioned a house for people who felt a bit queasy, that would have been the one for him. 
+"So we've just got to try on the hat!" Ron whispered to Harry. "I'll kill Fred, he was going on about wrestling a ==troll==." Harry. smiled weakly. Yes, trying on the hat was a lot better than having to do a spell, but he did wish they could have tried it on without everyone watching. The hat seemed to be asking rather a lot; Harry didn't feel brave or quick-witted or any of it at the moment. If only the hat had mentioned a house for people who felt a bit queasy, that would have been the one for him. 
 
 94
 
 
-
 Professor McGonagall now stepped forward holding a long roll of parchment. 
 
 "When I call your name, you will put on the hat and sit on the stool to be sorted," she said. "Abbott, Hannah!" 
 
-A pink-faced girl with blonde pigtails stumbled out of line, put on thehat, which fell right down over her eyes, and sat down. A moments pause 
+A pink-faced girl with blonde pigtails stumbled out of line, put on the hat, which fell right down over her eyes, and sat down.
 
-"HUFFLEPUFF!" shouted the hat. 
+A moments pause "HUFFLEPUFF!" shouted the hat. 
 
-The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table. Harry saw the ghost of the Fat Friar waving merrily at her. 
+The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table. 
+
+Harry saw the ghost of the Fat Friar waving merrily at her. 
 
 "Bones, Susan!" 
 
 "HUFFLEPUFF!" shouted the hat again, and Susan scuttled off to sit next to Hannah. 
 
-"Boot, Terry!" 
-
-"RAVENCLAW!" 
-
-The table second from the left clapped this time; several Ravenclaws stood up to shake hands with Terry as he joined them. 
+"Boot, Terry!" "RAVENCLAW!" The table second from the left clapped this time; several Ravenclaws stood up to shake hands with Terry as he joined them. 
 
 " Brocklehurst, Mandy" went to Ravenclaw too, but "Brown, Lavender" became the first new Gryffindor, and the table on the far left exploded with cheers; Harry could see Ron's twin brothers catcalling. 
 
@@ -159,9 +146,7 @@ The table second from the left clapped this time; several Ravenclaws stood up to
 
 Sometimes, Harry noticed, the hat shouted out the house at once, but at others it took a little while to decide. "Finnigan, Seamus," the sandy-haired boy next to Harry in the line, sat on the stool for almost a whole minute before the hat declared him a Gryffindor. 
 
-"Granger, Hermione!" 
-
-Hermione almost ran to the stool and jammed the hat eagerly on her head. 
+"Granger, Hermione!" Hermione almost ran to the stool and jammed the hat eagerly on her head. 
 
 "GRYFFINDOR!" shouted the hat. Ron groaned. 
 
@@ -177,9 +162,7 @@ There weren't many people left now. "Moon" "Nott" "Parkinson" then a pair of twi
 
 As Harry stepped forward, whispers suddenly broke out like little hissing fires all over the hall. 
 
-"Potter, did she say?" 
-
-The Harry Potter?" 
+"Potter, did she say?" The Harry Potter?" 
 
 The last thing Harry saw before the hat dropped over his eyes was the hall full of people craning to get a good look at him. Next second he 
 
@@ -195,7 +178,7 @@ Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.
 
 "Not Slytherin, eh?" said the small voice. "Are you sure? You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that -- no? Well, if you're sure -- better be GRYFFINDOR!" 
 
-Harry heard the hat shout the last word to the whole hall. He took off the hat and walked shakily toward the Gryffindor table. He was so relieved to have been chosen and not put in Slytherin, he hardly noticed that he was getting the loudest cheer yet. Percy the Prefect got up and shook his hand vigorously, while the Weasley twins yelled, "We got Potter! We got Potter!" Harry sat down opposite the ghost in the ruff he'd seen earlier. The ghost patted his arm, giving Harry the sudden, horrible feeling he'd just plunged it into a bucket of ice-cold water. 
+Harry heard the hat shout the last word to the whole hall. He took off the hat and walked shakily toward the Gryffindor table. He was so relieved to have been chosen and not put in Slytherin, he hardly noticed that he was getting the loudest cheer yet. Percy the Prefect got up and shook his hand ==vigorously,== while the Weasley twins yelled, "We got Potter! We got Potter!" Harry sat down opposite the ghost in the ruff he'd seen earlier. The ghost patted his arm, giving Harry the sudden, horrible feeling he'd just plunged it into a bucket of ice-cold water. 
 
 He could see the High Table properly now. At the end nearest him sat Hagrid, who caught his eye and gave him the thumbs up. Harry grinned back. And there, in the center of the High Table, in a large gold chair, sat Albus Dumbledore. Harry recognized him at once from the card he'd gotten out of the Chocolate Frog on the train. Dumbledore's silver hair was the only thing in the whole hall that shone as brightly as the ghosts. Harry spotted Professor Quirtell, too, the nervous young man from the Leaky Cauldron. He was looking very peculiar in a large purple turban. 
 
@@ -214,9 +197,7 @@ Harry looked down at his empty gold plate. He had only just realized how hungry 
 
 Albus Dumbledore had gotten to his feet. He was beaming at the students, his arms opened wide, as if nothing could have pleased him more than to see them all there. 
 
-"Welcome," he said. "Welcome to a new year at Hogwarts! Before we begin our banquet, I would like to say a few words. And here they are: Nitwit! Blubber! Oddment! Tweak! 
-
-"Thank you!" 
+"Welcome," he said. "Welcome to a new year at Hogwarts! Before we begin our banquet, I would like to say a few words. And here they are: Nitwit! Blubber! Oddment! Tweak! "Thank you!" 
 
 He sat back down. Everybody clapped and cheered. Harry didn't know whether to laugh or not. 
 
@@ -224,7 +205,7 @@ He sat back down. Everybody clapped and cheered. Harry didn't know whether to la
 
 "Mad?" said Percy airily. "He's a genius! Best wizard in the world! But he is a bit mad, yes. Potatoes, Harry?" 
 
-Harry's mouth fell open. The dishes in front of him were now piled with food. He had never seen so many things he liked to eat on one table: roast beef, roast chicken, pork chops and lamb chops, sausages, bacon and steak, boiled potatoes, roast potatoes, fries, Yorkshire pudding, peas, carrots, gravy, ketchup, and, for some strange reason, peppermint humbugs. 
+Harry's mouth fell open. The dishes in front of him were now piled with food. He had never seen so many things he liked to eat on one table: roast beef, roast chicken, pork chops and lamb chops, ==sausage==s, bacon and steak, boiled potatoes, roast potatoes, fries, Yorkshire pudding, peas, carrots, gravy, ketchup, and, for some strange reason, peppermint humbugs. 
 
 The Dursleys had never exactly starved Harry, but he'd never been allowed to eat as much as he liked. Dudley had always taken anything that Harry really wanted, even if It made him sick. Harry piled his plate with a bit of everything except the peppermints and began to eat. It was all delicious. 
 
@@ -235,8 +216,7 @@ The Dursleys had never exactly starved Harry, but he'd never been allowed to eat
 98
 
 
-
-I haven't eaten for nearly four hundred years," said the ghost. "I don't need to, of course, but one does miss it. I don't think I've in troduced myself? Sir Nicholas de Mimsy-Porpington at your service. Resident ghost of Gryffindor Tower." 
+I haven't eaten for nearly four hundred years," said the ghost. "I don't need to, of course, but one does miss it. I don't think I've introduced myself? Sir Nicholas de Mimsy-Porpington at your service. Resident ghost of Gryffindor Tower." 
 
 "I know who you are!" said Ron suddenly. "My brothers told me about you -- you're Nearly Headless Nick!" 
 
@@ -244,9 +224,9 @@ I haven't eaten for nearly four hundred years," said the ghost. "I don't need to
 
 "Nearly Headless? How can you be nearly headless?" 
 
-Sir Nicholas looked extremely miffed, as if their little chat wasn't going at all the way he wanted. 
+Sir Nicholas looked extremely ==miff==ed, as if their little chat wasn't going at all the way he wanted. 
 
-"Like this," he said irritably. He seized his left ear and pulled. His whole head swung off his neck and fell onto his shoulder as if it was on a hinge. Someone had obviously tried to behead him, but not done it properly. Looking pleased at the stunned looks on their faces, Nearly Headless Nick flipped his head back onto his neck, coughed, and said, 
+"Like this," he said ==irritably==. He seized his left ear and pulled. His whole head swung off his neck and fell onto his shoulder as if it was on a hinge. Someone had obviously tried to behead him, but not done it properly. Looking pleased at the stunned looks on their faces, Nearly Headless Nick flipped his head back onto his neck, coughed, and said, 
 "So -- new Gryffindors! I hope you're going to help us win the house championship this year? Gryffindors have never gone so long without winning. Slytherins have got the cup six years in a row! The Bloody Baron's becoming almost unbearable -- he's the Slytherin ghost." 
 
 Harry looked over at the Slytherin table and saw a horrible ghost sitting there, with blank staring eyes, a gaunt face, and robes stained with silver blood. He was right next to Malfoy who, Harry was pleased to see, didn't look too pleased with the seating arrangements. 
@@ -271,8 +251,7 @@ The others laughed.
 
 "Well, my gran brought me up and she's a witch," said Neville, "but the family thought I was all-Muggle for ages. My Great Uncle Algie kept trying to catch me off my guard and force some magic out of me -- he pushed me off the end of Blackpool pier once, I nearly drowned -- but nothing happened until I was eight. Great Uncle Algie came round for dinner, and he was hanging me out of an upstairs window by the ankles when my Great Auntie Enid offered him a meringue and he accidentally let go. But I bounced -- all the way down the garden and into the road. They were all really pleased, Gran was crying, she was so happy. And you should have seen their faces when I got in here -- they thought I might not be magic enough to come, you see. Great Uncle Algie was so pleased he bought me my toad." 
 
-On Harry's other side, Percy Weasley and Hermione were talking about lessons ("I do hope they start right away, there's so much to learn, I'm particularly interested in Transfiguration, you know, turning something into something else, of course, it's supposed to be very difficult-"; 
-"You'll be starting small, just matches into needles and that sort of thing -- "). 
+On Harry's other side, Percy Weasley and Hermione were talking about lessons ("I do hope they start right away, there's so much to learn, I'm particularly interested in Transfiguration, you know, turning something into something else, of course, it's supposed to be very difficult-"; "You'll be starting small, just matches into needles and that sort of thing -- "). 
 
 Harry, who was starting to feel warm and sleepy, looked up at the High Table again. Hagrid was drinking deeply from his goblet. Professor McGonagall was talking to Professor Dumbledore. Professor Quirrell, in his absurd turban, was talking to a teacher with greasy black hair, a hooked nose, and sallow skin. 
 
@@ -324,19 +303,16 @@ Harry laughed, but he was one of the few who did.
 
 Dumbledore gave his wand a little flick, as if he was trying to get a fly off the end, and a long golden ribbon flew out of it, which rose high above the tables and twisted itself, snakelike, into words. 
 
-"Everyone pick their favorite tune," said Dumbledore, "and off we go!"And the school bellowed:
-"Hogwarts, Hogwarts, Hoggy Warty Hogwarts,Teach us something please,Whether we be old and baldOr young with scabby knees,
-Our heads could do with fillingWith some interesting stuff,
-For now they're bare and full of air,
-Dead flies and bits of fluff,
-So teach us things worth knowing,
-Bring back what we've forgot,
-just do your best, we'll do the rest,
+"Everyone pick their favorite tune," said Dumbledore, "and off we go!"And the school ==bellow==ed:
+	"Hogwarts, Hogwarts, Hoggy Warty Hogwarts,Teach us something please,Whether we be old and bald Or 	young with scabby knees,
+	Our heads could do with fillingWith some interesting stuff,
+	For now they're bare and full of air,Dead flies and bits of fluff,
+	So teach us things worth knowing,
+	Bring back what we've forgot,
+	just do your best, we'll do the rest,
 
-
-And learn until our brains all rot.
-Everybody finished the song at different times. At last, only the
-Weasley twins were left singing along to a very slow funeral march.
+​	And learn until our brains all rot.
+Everybody finished the song at different times. At last, only the  Weasley twins were left singing along to a very slow funeral march.
 Dumbledore conducted their last few lines with his wand and when they
 
 
@@ -346,11 +322,10 @@ Dumbledore conducted their last few lines with his wand and when they
 
 had finished, he was one of those who clapped loudest. 
 
-"Ah, music," he said, wiping his eyes. "A magic beyond all we do here! 
-And now, bedtime. Off you trot!" 
+"Ah, music," he said, wiping his eyes. "A magic beyond all we do here! And now, bedtime. Off you trot!" 
 
 The Gryffindor first years followed Percy through the chattering crowds, out of the Great Hall, and up the marble staircase. Harry's legs were like lead again, but only because he was so tired and full of food. He 
-was too sleepy even to be surprised that the people in the portraits along the corridors whispered and pointed as they passed, or that twice Percy led them through doorways hidden behind sliding panels and hanging tapestries. They climbed more staircases, yawning and dragging their feet, and Harry was just wondering how much farther they had to go when they came to a sudden halt. 
+was too sleepy even to be surprised that the people in the ==portrait==s along the corridors whispered and pointed as they passed, or that twice Percy led them through doorways hidden behind sliding panels and hanging ==tapestries==. They climbed more staircases, yawning and dragging their feet, and Harry was just wondering how much farther they had to go when they came to a sudden halt. 
 
 A bundle of walking sticks was floating in midair ahead of them, and as Percy took a step toward them they started throwing themselves at him. 
 
@@ -376,9 +351,7 @@ Peeves stuck out his tongue and vanished, dropping the walking sticks on Neville
 103
 
 
-
-At the very end of the corridor hung a portrait of a very fat woman in a 
-pink silk dress. 
+At the very end of the corridor hung a portrait of a very fat woman in a pink silk dress. 
 
 "Password?" she said. "Caput Draconis," said Percy, and the portrait swung forward to reveal a round hole in the wall. They all scrambled through it -- Neville needed a leg up -- and found themselves in the Gryffindor common room, a cozy, round room full of squashy armchairs. 
 
