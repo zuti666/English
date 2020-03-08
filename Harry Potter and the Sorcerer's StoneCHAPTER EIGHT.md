@@ -24,13 +24,12 @@ There were a hundred and forty-two staircases at Hogwarts: wide, sweeping ones; 
 
 The ghosts didn't help, either. It was always a nasty shock when one of them glided suddenly through a door you were trying to open. Nearly Headless Nick was always happy to point new Gryffindors in the right direction, but Peeves the Poltergeist was worth two locked doors and a trick staircase if you met him when you were late for class. He would drop wastepaper baskets on your head, pull rugs from under your feet, pelt you with bits of chalk, or sneak up behind you, invisible, grab your nose, and screech, "GOT YOUR CONK!" 
 
-Even worse than Peeves, if that was possible, was the caretaker, Argus Filch. Harry and Ron managed to get on the wrong side of him on their very first morning. Filch found them trying to force their way through a door that unluckily turned out to be the entrance to the out-of-bounds corridor on the third floor. He wouldn't believe they were lost, was sure they were trying to break into it on purpose, and was threatening to lock them in the dungeons when they were rescued by Professor Quirrell, who was passing. 
+Even worse than Peeves, if that was possible, was the caretaker, Argus Filch. Harry and Ron managed to get on the wrong side of him on their very first morning. Filch found them trying to force their way through a door that unluckily turned out to be the entrance to the out-of-bounds corridor on the third floor. He wouldn't believe they were lost, was sure they were trying to break into it on purpose, and was threatening to lock them in the ==dungeon==s when they were rescued by Professor Quirrell, who was passing. 
 
 105
 
 
-
-Filch owned a cat called Mrs. Norris, a scrawny, dust-colored creature with bulging, lamp like eyes just like Filch's. She patrolled the corridors alone. Break a rule in front of her, put just one toe out of line, and she'd whisk off for Filch, who'd appear, wheezing, two seconds later. Filch knew the secret passageways of the school better than anyone (except perhaps the Weasley twins) and could pop up as suddenly as any of the ghosts. The students all hated him, and it was the dearest ambition of many to give Mrs. Norris a good kick. 
+Filch owned a cat called Mrs. Norris, a scrawny, dust-colored creature with bulging, lamp like eyes just like Filch's. She ==patrol==led the corridors alone. Break a rule in front of her, put just one toe out of line, and she'd whisk off for Filch, who'd appear, wheezing, two seconds later. Filch knew the secret passage ways of the school better than anyone (except perhaps the Weasley twins) and could pop up as suddenly as any of the ghosts. The students all hated him, and it was the dearest ambition of many to give Mrs. Norris a good kick. 
 
 And then, once you had managed to find them, there were the classes themselves. There was a lot more to magic, as Harry quickly found out, than waving your wand and saying a few funny words. 
 
@@ -52,7 +51,7 @@ Then she changed her desk into a pig and back again. They were all very impresse
 
 weren't going to be changing the furniture into animals for a long time. After taking a lot of complicated notes, they were each given a match and started trying to turn it into a needle. By the end of the lesson, only Hermione Granger had made any difference to her match; Professor McGonagall showed the class how it had gone all silver and pointy and gave Hermione a rare smile. 
 
-The class everyone had really been looking forward to was Defense Against the Dark Arts, but Quirrell's lessons turned out to be a bit of a joke. His classroom smelled strongly of garlic, which everyone said was to ward off a vampire he'd met in Romania and was afraid would be coming back to get him one of these days. His turban, he told them, had been given to him by an African prince as a thank-you for getting rid of a troublesome zombie, but they weren't sure they believed this story. For one thing, when Seamus Finnigan asked eagerly to hear how Quirrell had fought off the zombie, Quirrell went pink and started talking about the weather; for another, they had noticed that a funny smell hung around the turban, and the Weasley twins insisted that it was stuffed full of garlic as well, so that Quirrell was protected wherever he went. 
+The class everyone had really been looking forward to was Defense Against the Dark Arts, but Quirrell's lessons turned out to be a bit of a joke. His classroom smelled strongly of garlic, which everyone said was to ward off a vampire he'd met in Romania and was afraid would be coming back to get him one of these days. His ==turban==, he told them, had been given to him by an African prince as a thank-you for getting rid of a troublesome zombie, but they weren't sure they believed this story. For one thing, when Seamus Finnigan asked eagerly to hear how Quirrell had fought off the zombie, Quirrell went pink and started talking about the weather; for another, they had noticed that a funny smell hung around the turban, and the Weasley twins insisted that it was stuffed full of garlic as well, so that Quirrell was protected wherever he went. 
 
 Harry was very relieved to find out that he wasn't miles behind everyone else. Lots of people had come from Muggle families and, like him, hadn't had any idea that they were witches and wizards. There was so much to learn that even people like Ron didn't have much of a head start. 
 
@@ -74,15 +73,14 @@ circling the tables until they saw their owners, and dropping letters and packag
 
 Hedwig hadn't brought Harry anything so far. She sometimes flew in to nibble his ear and have a bit of toast before going off to sleep in the owlery with the other school owls. This morning, however, she fluttered down between the marmalade and the sugar bowl and dropped a note onto Harry's plate. Harry tore it open at once. It said, in a very untidy scrawl: 
 
-Dear Harry, 
+​	Dear Harry, 
 
-I know you get Friday afternoons off, so would you like to come and have 
-a cup of tea with me around three? 
+​	I know you get Friday afternoons off, so would you like to come and have a cup of tea with me around 	three? 
 
-I want to hear all about your first week. Send us an answer back with 
-Hedwig. 
+​	I want to hear all about your first week. Send us an answer back with 
+​	Hedwig. 
 
-Hagrid 
+​	Hagrid 
 
 Harry borrowed Ron's quill, scribbled Yes, please, see you later on the back of the note, and sent Hedwig off again. 
 
@@ -94,7 +92,7 @@ Potions lessons took place down in one of the dungeons. It was colder here than 
 
 Snape, like Flitwick, started the class by taking the roll call, and like Flitwick, he paused at Harry's name. 
 
-"Ah, Yes," he said softly, "Harry Potter. Our new -- celebrity." 
+"Ah, Yes," he said softly, "Harry Potter. Our new -- ==celebrity==." 
 
 Draco Malfoy and his friends Crabbe and Goyle sniggered behind their 
 
@@ -104,7 +102,9 @@ Draco Malfoy and his friends Crabbe and Goyle sniggered behind their
 
 hands. Snape finished calling the names and looked up at the class. His eyes were black like Hagrid's, but they had none of Hagrid's warmth. They were cold and empty and made you think of dark tunnels. 
 
-"You are here to learn the subtle science and exact art of potionmaking," he began. He spoke in barely more than a whisper, but they caught every word -- like Professor McGonagall, Snape had y caught every word -- like Professor McGonagall, Snape had the gift of keeping a class silent without effort. "As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes, the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses.... I can teach you how to bottle fame, brew glory, even stopper death -- if you aren't as big a bunch of dunderheads as I usually have to teach." 
+"You are here to learn the subtle science and exact art of potion making," he began. He spoke in barely more than a whisper, but they caught every word -- like Professor McGonagall, Snape had y caught every word -- like Professor McGonagall, Snape had the gift of keeping a class silent without effort. 
+
+"As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes, the delicate power of liquids that creep through human veins, bewitching the mind, ensnaring the senses.... I can teach you how to bottle fame, brew glory, even stopper death -- if you aren't as big a bunch of dunderheads as I usually have to teach." 
 
 More silence followed this little speech. Harry and Ron exchanged looks with raised eyebrows. Hermione Granger was on the edge of her seat and looked desperate to start proving that she wasn't a dunderhead. 
 
@@ -141,12 +141,13 @@ At this, Hermione stood up, her hand stretching toward the dungeon ceiling.
 
 "I don't know," said Harry quietly. "I think Hermione does, though, why don't you try her?" 
 
-A few people laughed; Harry caught Seamus's eye, and Seamus winked. Snape, however, was not pleased. 
+A few people laughed; Harry caught Seamus's eye, and Seamus winked.
+
+ Snape, however, was not pleased. 
 
 "Sit down," he snapped at Hermione. "For your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. A bezoar is a stone taken from the stomach of a goat and it will save you from most poisons. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite. Well? Why aren't you all copying that down?" 
 
-There was a sudden rummaging for quills and parchment. Over the noise, Snape said, "And a point will be taken from Gryffindor House for your 
-cheek, Potter." 
+There was a sudden rummaging for quills and parchment. Over the noise, Snape said, "And a point will be taken from Gryffindor House for your cheek, Potter." 
 
 Things didn't improve for the Gryffindors as the Potions lesson continued. Snape put them all into pairs and set them to mixing up a simple potion to cure boils. He swept around in his long black cloak, watching them weigh dried nettles and crush snake fangs, criticizing almost everyone except Malfoy, whom he seemed to like. He was just telling everyone to look at the perfect way Malfoy had stewed his horned slugs when clouds of acid green smoke and a loud hissing filled the dungeon. Neville had somehow managed to melt Seamus's cauldron into a twisted blob, and their potion was seeping across the stone floor, burning holes in people's shoes. Within seconds, the whole class was standing on their stools while Neville, who had been drenched in the potion when the cauldron collapsed, moaned in pain as angry red boils sprang up all over his arms and legs. 
 
@@ -166,7 +167,9 @@ This was so unfair that Harry opened his mouth to argue, but Ron kicked him behi
 
 "Doi* push it," he muttered, "I've heard Snape can turn very nasty." 
 
-As they climbed the steps out of the dungeon an hour later, Harry's mind was racing and his spirits were low. He'd lost two points for Gryffindor in his very first week -- why did Snape hate him so much? "Cheer up," said Ron, "Snape's always taking points off Fred and George. Can I come and meet Hagrid with you?" 
+As they climbed the steps out of the dungeon an hour later, Harry's mind was racing and his spirits were low. He'd lost two points for Gryffindor in his very first week -- why did Snape hate him so much? 
+
+"Cheer up," said Ron, "Snape's always taking points off Fred and George. Can I come and meet Hagrid with you?" 
 
 At five to three they left the castle and made their way across the grounds. Hagrid lived in a small wooden house on the edge of the forbidden forest. A crossbow and a pair of galoshes were outside the front door. 
 
@@ -176,7 +179,7 @@ Hagrid's big, hairy face appeared in the crack as he pulled the door open.
 
 "Hang on," he said. "Back, Fang." 
 
-He let them in, struggling to keep a hold on the collar of an enormous black boarhound. 
+He let them in, struggling to keep a hold on the collar of an enormous black boar hound. 
 
 There was only one room inside. Hams and pheasants were hanging from the ceiling, a copper kettle was boiling on the open fire, and in the corner 
 
@@ -208,18 +211,18 @@ Yet Harry couldn't help thinking that Hagrid didn't quite meet his eyes when he 
 
 "How's yer brother Charlie?" Hagrid asked Ron. "I liked him a lot -great with animals." 
 
-Harry wondered if Hagrid had changed the subject on purpose. While Ron told Hagrid all about Charlie's work with dragons, Harry picked up a piece of paper that was lying on the table under the tea cozy. It was a cutting from the Daily Prophet: 
+Harry wondered if Hagrid had changed the subject on purpose. While Ron told Hagrid all about Charlie's work with dragons, Harry picked up a piece of paper that was lying on the table under the tea cozy. It was a cutting from the Daily Prophet:  
 
 GRINGOTTS BREAK-IN LATEST 
 
 112
 
 
-Investigations continue into the break-in at Gringotts on 31 July, widely believed to be the work of Dark wizards or witches unknown. 
+​	Investigations continue into the break-in at Gringotts on 31 July, widely believed to be the work of Dark 	wizards or witches unknown. 
 
-Gringotts goblins today insisted that nothing had been taken. The vault that was searched had in fact been emptied the same day. 
+​	Gringotts goblins today insisted that nothing had been taken. The vault that was searched had in fact 	been emptied the same day. 
 
-"But we're not telling you what was in there, so keep your noses out if you know what's good for you," said a Gringotts spokesgoblin this afternoon. 
+​	"But we're not telling you what was in there, so keep your noses out if you know what's good for you," said a Gringotts spokesgoblin this afternoon. 
 
 Harry remembered Ron telling him on the train that someone had tried to rob Gringotts, but Ron hadn't mentioned the date. 
 
