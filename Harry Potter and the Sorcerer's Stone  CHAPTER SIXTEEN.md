@@ -25,7 +25,9 @@ Their very last exam was History of Magic. One hour of answering questions about
 
 "That was far easier than I thought it would be," said Hermione as they joined the crowds flocking out onto the sunny grounds. "I needn't have learned about the 1637 Werewolf Code of Conduct or the uprising of Elfric the Eager." 
 
-Hermione always liked to go through their exam papers afterward, but Ron said this made him feel ill, so they wandered down to the lake and flopped under a tree. The Weasley twins and Lee Jordan were tickling the tentacles of a giant squid, which was basking in the warm shallows. "No more studying," Ron sighed happily, stretching out on the grass. "You could look more cheerful, Harry, we've got a week before we find out how badly we've done, there's no need to worry yet." 
+Hermione always liked to go through their exam papers afterward, but Ron said this made him feel ill, so they wandered down to the lake and flopped under a tree. The Weasley twins and Lee Jordan were tickling the tentacles of a giant squid, which was basking in the warm shallows. 
+
+"No more studying," Ron sighed happily, stretching out on the grass. "You could look more cheerful, Harry, we've got a week before we find out how badly we've done, there's no need to worry yet." 
 
 Harry was rubbing his forehead. 
 
@@ -86,7 +88,7 @@ Harry sank down next to the bowl of peas. "What did you talk to him about, Hagri
 "Mighta come up," said Hagrid, frowning as he tried to remember. 
 "Yeah... he asked what I did, an' I told him I was gamekeeper here.... He asked a bit about the sorta creatures I took after... so I told him... an' I said what I'd always really wanted was a dragon... an' then... I can' remember too well, 'cause he kept buyin' me drinks.... Let's see... yeah, then he said he had the dragon egg an' we could play cards fer it if I wanted... but he had ter be sure I could handle it, he didn' want it ter go ter any old home.... So I told him, after Fluffy, a dragon would be easy..." 
 
-"And did he -- did he seem interested in Fluffy?" Harry asked, try ing to keep his voice calm. 
+"And did he -- did he seem interested in Fluffy?" Harry asked, trying to keep his voice calm. 
 
 "Well -- yeah -- how many three-headed dogs d'yeh meet, even around Hogwarts? So I told him, Fluffy's a piece o' cake if yeh know how to calm him down, jus' play him a bit o' music an' he'll go straight off ter sleep --" 
 
@@ -106,7 +108,7 @@ cloak -- it must've been easy, once he'd got Hagrid drunk. I just hope Dumbledor
 
 They looked around, as if hoping to see a sign pointing them in the right direction. They had never been told where Dumbledore lived, nor did they know anyone who had been sent to see him. 
 
-"We'll just have to --" Harry began, but a voice suddenly rang acrossthe hall.
+"We'll just have to --" Harry began, but a voice suddenly rang across the hall.
 "What are you three doing inside?"
 
 
@@ -125,10 +127,10 @@ Professor McGonagall's nostrils flared.
 
 "He's gone?" said Harry frantically. "Now?" 
 
-"Professor Dumbledore is a very great wizard, Potter, he has manydemands on his time -
+"Professor Dumbledore is a very great wizard, Potter, he has many demands on his time -
 "But this is important."
 "Something you have to say is more important than the Ministry of Magic,Potter.
-"Look," said Harry, throwing caution to the winds, "Professor -- it'sabout the Sorcerer's tone --"
+"Look," said Harry, throwing caution to the winds, "Professor -- it's about the Sorcerer's tone --"
 
 
 213
@@ -138,32 +140,22 @@ Whatever Professor McGonagall had expected, it wasn't that. The books she was ca
 "How do you know --?" she spluttered.
 
 
-"Professor, I think -- I know -- that Sn- that someone's going to tryand steal the Stone. I've got to talk to Professor Dumbledore."
+"Professor, I think -- I know -- that Sn- that someone's going to try and steal the Stone. I've got to talk to Professor Dumbledore."
 
 She eyed him with a mixture of shock and suspicion.
-"Professor Dumbledore will be back tomorrow," she said finally. I don'tknow how you found out about the Stone, but rest assured, no one canpossibly steal it, it's too well protected."
-
+"Professor Dumbledore will be back tomorrow," she said finally. I don't know how you found out about the Stone, but rest assured, no one can possibly steal it, it's too well protected."
 
 "But Professor --"
-"Potter, I know what I'm talking about," she said shortly. She bent down
-
-
-and gathered up the fallen books. I suggest you all go back outside andenjoy the sunshine."
+"Potter, I know what I'm talking about," she said shortly. She bent down and gathered up the fallen books. I suggest you all go back outside and enjoy the sunshine."
 But they didn't.
-"It's tonight," said Harry, once he was sure Professor McGonagall was
-
-out of earshot. "Snape's going through the trapdoor tonight. He's found out everything he needs, and now he's got Dumbledore out of the way. He sent that note, I bet the Ministry of Magic will get a real shock when 
-Dumbledore turns up." 
+"It's tonight," said Harry, once he was sure Professor McGonagall was out of earshot. "Snape's going through the trapdoor tonight. He's found out everything he needs, and now he's got Dumbledore out of the way. He sent that note, I bet the Ministry of Magic will get a real shock when Dumbledore turns up." 
 
 "But what can we --"
 Hermione gasped. Harry and Ron wheeled round.
 Snape was standing there.
 "Good afternoon," he said smoothly.
 They stared at him.
-"You shouldn't be inside on a day like this," he said, with an odd,
-
-
-twisted smile.
+"You shouldn't be inside on a day like this," he said, with an odd, twisted smile.
 "We were --" Harry began, without any idea what he was going to say.
 "You want to be more careful," said Snape. "Hanging around
 
@@ -197,8 +189,7 @@ But that part of the plan didn't work. No sooner had they reached the door separ
 
 "I suppose you think you're harder to get past than a pack of enchantments!" she stormed. "Enough of this nonsense! If I hear you 've come anywhere near here again, I'll take another fifty points from Gryffindor! Yes, Weasley, from my own house!" Harry and Ron went back to the common room, Harry had just said, "Atleast Hermione's on Snape's tail," when the portrait of the Fat Lady swung open and Hermione came in. 
 
-"I'm sorry, Harry!" she wailed. "Snape came out and asked me what I was 
-doing, so I said I was waiting for Flitwick, and Snape went to get him, 
+"I'm sorry, Harry!" she wailed. "Snape came out and asked me what I was doing, so I said I was waiting for Flitwick, and Snape went to get him, 
 
 215
 
@@ -265,30 +256,26 @@ Harry looked at the grandfather clock by the door. They couldn't afford to waste
 
 217
 
-
-"You can't go out," said Neville, "you'll be caught again. Gryffindorwill be in even more trouble."
+"You can't go out," said Neville, "you'll be caught again. Gryffindor will be in even more trouble."
 "You don't understand," said Harry, "this is important."
 
 
-But Neville was clearly steeling himself to do something desperate.I won't let you do it," he said, hurrying to stand in front of theportrait hole. "I'll -- I'll fight you!"
+But Neville was clearly steeling himself to do something desperate. I won't let you do it," he said, hurrying to stand in front of the portrait hole. "I'll -- I'll fight you!"
+
+"Neville, "Ron exploded, "get away from that hole and don't be an idiot--"
+"Don't you call me an idiot!" said Neville. I don't think you should be breaking any more rules! And you were the one who told me to stand up to people!"
 
 
-"Neville, "Ron exploded, "get away from that hole and don't be an idiot
+"Yes, but not to us," said Ron in exasperation. "Neville, you don't know what you're doing."He took a step forward and Neville dropped Trevor the toad, who leapt out of sight.
 
---"
-"Don't you call me an idiot!" said Neville. I don't think you should bebreaking any more rules! And you were the one who told me to stand up topeople!"
-
-
-"Yes, but not to us," said Ron in exasperation. "Neville, you don't knowwhat you're doing."He took a step forward and Neville dropped Trevor the toad, who leapt out of sight.
-
-"Go on then, try and hit me!" said Neville, raising his fists. "I'mready!"
+"Go on then, try and hit me!" said Neville, raising his fists. "I'm ready!"
 Harry turned to Hermione.
 "Do something," he said desperately.
 Hermione stepped forward.
 "Neville," she said, "I'm really, really sorry about this."She raised her wand.
 
 "Petrificus Totalus!" she cried, pointing it at Neville.
-Neville's arms snapped to his sides. His legs sprang together. His wholebody rigid, he swayed where he stood and then fell flat on his face,stiff as a board.
+Neville's arms snapped to his sides. His legs sprang together. His whole body rigid, he swayed where he stood and then fell flat on his face,stiff as a board.
 
 
 218
@@ -307,7 +294,7 @@ Hermione ran to turn him over. Neville's jaws were jammed together so he couldn'
 
 But leaving Neville lying motionless on the floor didn't feel like a very good omen. In their nervous state, every statue's shadow looked like Filch, every distant breath of wind sounded like Peeves swooping down on them. At the foot of the first set of stairs, they spotted Mrs. Norris skulking near the top. 
 
-"Oh, let's kick her, just this once," Ron whispered in Harry's ear, but Harry shook his head. As they climbed carefully around her, Mrs. Norris turned her lamplike eyes on them, but didn't do anything. 
+"Oh, let's kick her, just this once," Ron whispered in Harry's ear, but Harry shook his head. As they climbed carefully around her, Mrs. Norris turned her lamp like eyes on them, but didn't do anything. 
 
 They didn't meet anyone else until they reached the staircase up to the third floor. Peeves was bobbing halfway up, loosening the carpet so that people would trip. 
 
@@ -328,10 +315,8 @@ Peeves almost fell out of the air in shock. He caught himself in time and hovere
 
 "So sorry, your bloodiness, Mr. Baron, Sir," he said greasily. "My mistake, my mistake -- I didn't see you -- of course I didn't, you're invisible -- forgive old Peevsie his little joke, sir." 
 
-"I have business here, Peeves," croaked Harry. "Stay away from this 
-
-place tonight."
-"I will, sir, I most certainly will," said Peeves, rising up in the airagain. "Hope your business goes well, Baron, I'll not bother you."
+"I have business here, Peeves," croaked Harry. "Stay away from this place tonight."
+"I will, sir, I most certainly will," said Peeves, rising up in the air  again. "Hope your business goes well, Baron, I'll not bother you."
 
 
 And he scooted off 
@@ -340,11 +325,9 @@ A few seconds later, they were there, outside the third-floor corridor
 
 -- and the door was already ajar. 
 
-"Well, there you are," Harry said quietly, "Snape's already got pastFluffy."
-Seeing the open door somehow seemed to impress upon all three of them
-
-what was facing them. Underneath the cloak, Harry turned to the othertwo.
-"If you want to go back, I won't blame you," he said. "You can take thecloak, I won't need it now."
+"Well, there you are," Harry said quietly, "Snape's already got past Fluffy."
+Seeing the open door somehow seemed to impress upon all three of them what was facing them. Underneath the cloak, Harry turned to the other two.
+"If you want to go back, I won't blame you," he said. "You can take the cloak, I won't need it now."
 
 
 "Don't be stupid," said Ron.
@@ -373,8 +356,7 @@ He put Hagrid's flute to his lips and blew. It wasn't really a tune, but from th
 
 "What can you see?" Hermione said anxiously. 
 
-"Nothing -- just black -- there's no way of climbing down, we'll just 
-have to drop." 
+"Nothing -- just black -- there's no way of climbing down, we'll just have to drop." 
 
 Harry, who was still playing the flute, waved at Ron to get his attention and pointed at himself. 
 
@@ -412,7 +394,7 @@ The distant music stopped. There was a loud bark from the dog, but Hermione had 
 
 "Lucky!" shrieked Hermione. "Look at you both!" 
 
-She leapt up and struggled toward a damp wall. She had to struggle because the moment she had landed, the plant had started to twist snakelike tendrils around her ankles. As for Harry and Ron, their legs had already been bound tightly in long creepers without their noticing. 
+She leapt up and struggled toward a damp wall. She had to struggle because the moment she had landed, the plant had started to twist snake like tendrils around her ankles. As for Harry and Ron, their legs had already been bound tightly in long creepers without their noticing. 
 
 Hermione had managed to free herself before the plant got a firm grip on her. Now she watched in horror as the two boys fought to pull the plant off them, but the more they strained against it, the tighter and faster the plant wound around them. 
 
@@ -423,12 +405,9 @@ Hermione had managed to free herself before the plant got a firm grip on her. No
 222
 
 
-
-"Well, hurry up, I can't breathe!" Harry gasped, wrestling with it as it 
-curled around his chest. 
+"Well, hurry up, I can't breathe!" Harry gasped, wrestling with it as it curled around his chest. 
 
-"Devil's Snare, Devil's Snare... what did Professor Sprout say? -- it 
-likes the dark and the damp 
+"Devil's Snare, Devil's Snare... what did Professor Sprout say? -- it likes the dark and the damp 
 
 "So light a fire!" Harry choked. 
 
@@ -436,15 +415,15 @@ likes the dark and the damp
 
 "HAVE YOU GONE MAD?" Ron bellowed. "ARE YOU A WITCH OR NOT?" 
 
-"Oh, right!" said Hermione, and she whipped out her wand, waved it, muttered something, and sent a jet of the same bluebell flames she had used on Snape at the plant. In a matter of seconds, the two boys felt it loosening its grip as it cringed away from the light and warmth. Wriggling and flailing, it unraveled itself from their bodies, and they were able to pull free. 
+"Oh, right!" said Hermione, and she whipped out her wand, waved it, muttered something, and sent a jet of the same bluebell flames she had used on Snape at the plant.
+
+ In a matter of seconds, the two boys felt it loosening its grip as it cringed away from the light and warmth. Wriggling and flailing, it unraveled itself from their bodies, and they were able to pull free. 
 
 "Lucky you pay attention in Herbology, Hermione," said Harry as he joined her by the wall, wiping sweat off his face. 
 
-"Yeah," said Ron, "and lucky Harry doesn't lose his head in a crisis -
-'there's no wood,' honestly." 
+"Yeah," said Ron, "and lucky Harry doesn't lose his head in a crisis -'there's no wood,' honestly." 
 
-"This way," said Harry, pointing down a stone passageway, which was the 
-only way forward. 
+"This way," said Harry, pointing down a stone passageway, which was the only way forward. 
 
 All they could hear apart from their footsteps was the gentle drip of water trickling down the walls. The passageway sloped downward, and Harry was reminded of Gringotts. With an unpleasant jolt of the heart, he remembered the dragons said to be guarding vaults in the wizards' bank. If they met a dragon, a fully-grown dragon -- Norbert had been bad enough... 
 
@@ -491,9 +470,7 @@ They each seized a broomstick and kicked off into the air, soaring into the mids
 224
 
 
-
-bewitched keys darted and dived so quickly it was almost impossible to 
-catch one. 
+bewitched keys darted and dived so quickly it was almost impossible to catch one. 
 
 Not for nothing, though, was Harry the youngest Seeker in a century. He had a knack for spotting things other people didn't. After a minute's weaving about through the whirl of rainbow feathers, he noticed a large silver key that had a bent wing, as if it had already been caught and stuffed roughly into the keyhole. 
 
@@ -501,9 +478,7 @@ Not for nothing, though, was Harry the youngest Seeker in a century. He had a kn
 
 Ron went speeding in the direction that Harry was pointing, crashed into the ceiling, and nearly fell off his broom. 
 
-"We've got to close in on it!" Harry called, not taking his eyes off the key with the damaged wing. "Ron, you come at it from above -- Hermione, 
-stay below and stop it from going down and I'll try and catch it. Right, 
-NOW!" 
+"We've got to close in on it!" Harry called, not taking his eyes off the key with the damaged wing. "Ron, you come at it from above -- Hermione, stay below and stop it from going down and I'll try and catch it. Right, NOW!" 
 
 Ron dived, Hermione rocketed upward, the key dodged them both, and Harry streaked after it; it sped toward the wall, Harry leaned forward and with a nasty, crunching noise, pinned it against the stone with one hand. Ron and Hermione's cheers echoed around the high chamber. 
 
@@ -521,26 +496,23 @@ They were standing on the edge of a huge chessboard, behind the black chessmen, 
 
 "Now what do we do?" Harry whispered.
 
-"It's obvious, isn't it?" said Ron. "We've got to play our way acrossthe room."Behind the white pieces they could see another door.
+"It's obvious, isn't it?" said Ron. "We've got to play our way across the room."Behind the white pieces they could see another door.
 "How?" said Hermione nervously.
 "I think," said Ron, "we're going to have to be chessmen."
-He walked up to a black knight and put his hand out to touch theknight's horse. At once, the stone sprang to life. The horse pawed theground and the knight turned his helmeted head to look down at Ron.
-"Do we -- er -- have to join you to get across?" The black knight
-nodded. Ron turned to the other two.
+He walked up to a black knight and put his hand out to touch the knight's horse. At once, the stone sprang to life. The horse pawed the ground and the knight turned his helmeted head to look down at Ron.
+"Do we -- er -- have to join you to get across?" The black knightnodded. Ron turned to the other two.
 
-
-"This needs thinking about he said. I suppose we've got to take theplace of three of the black pieces...."
+"This needs thinking about he said. I suppose we've got to take the place of three of the black pieces...."
 Harry and Hermione stayed quiet, watching Ron think. Finally he said,
-"Now, don't be offended or anything, but neither of you are that good atchess --"
+"Now, don't be offended or anything, but neither of you are that good at chess --"
 
 
 "We're not offended," said Harry quickly. "Just tell us what to do."
 
-
-"Well, Harry, you take the place of that bishop, and Hermione, YOU 90next to him instead of that castle."
+"Well, Harry, you take the place of that bishop, and Hermione, YOU 90 next to him instead of that castle."
 "What about you?"
 "I'm going to be a knight," said Ron.
-The chessmen seemed to have been listening, because at these words aknight, a bishop, and a castle turned their backs on the white piecesand walked off the board, leaving three empty squares that Harry, Ron,and Hermione took.
+The chessmen seemed to have been listening, because at these words a knight, a bishop, and a castle turned their backs on the white piece sand walked off the board, leaving three empty squares that Harry, Ron,and Hermione took.
 
 
 "White always plays first in chess," said Ron, peering across the board.
@@ -556,22 +528,21 @@ Ron started to direct the black pieces. They moved silently wherever he
 sent them. Harry's knees were trembling. What if they lost?
 
 
-"Harry -- move diagonally four squares to the right."Their first real shock came when their other knight was taken. The whitequeen smashed him to the floor and dragged him off the board, where helay quite still, facedown.
+"Harry -- move diagonally four squares to the right."Their first real shock came when their other knight was taken. The white queen smashed him to the floor and dragged him off the board, where he lay quite still, face down.
 
 
 "Had to let that happen," said Ron, looking shaken. "Leaves you free to
 
+take that bishop, Hermione, go on.
 
-take that bishop, Hermione, go on."Every time one of their men was lost, the white pieces showed no mercy.Soon there was a huddle of limp black players slumped along the wall.Twice, Ron only just noticed in time that Harry and Hermione were indanger. He himself darted around the board, taking almost as many whitepieces as they had lost black ones.
+"Every time one of their men was lost, the white pieces showed no mercy. Soon there was a huddle of limp black players slumped along the wall. Twice, Ron only just noticed in time that Harry and Hermione were in danger. He himself darted around the board, taking almost as many white pieces as they had lost black ones.
 
-
-"We're nearly there," he muttered suddenly. "Let me think let me
-think..."
+"We're nearly there," he muttered suddenly. "Let me think let me think..."
 The white queen turned her blank face toward him.
 "Yes..." said Ron softly, "It's the only way... I've got to be taken."
 
 "NOF Harry and Hermione shouted.
-"That's chess!" snapped Ron. "You've got to make some sacrifices! I takeone step forward and she'll take me -- that leaves you free to checkmatethe king, Harry!"
+"That's chess!" snapped Ron. "You've got to make some sacrifices! I take one step forward and she'll take me -- that leaves you free to check mate the king, Harry!"
 
 
 "But --"
@@ -598,7 +569,7 @@ The white king took off his crown and threw it at Harry's feet. They had won. Th
 
 "He'll be all right," said Harry, trying to convince himself. "What do you reckon's next?" 
 
-"We've had Sprout's, that was the Devil's Snare; Flitwick must've put charms on the keys; McGonagalltransfigured the chessmen to make them alive; that leaves Quirrell's spell, and Snape's." 
+"We've had Sprout's, that was the Devil's Snare; Flitwick must've put charms on the keys; McGonagalltrans figured the chessmen to make them alive; that leaves Quirrell's spell, and Snape's." 
 
 They had reached another door. 
 
@@ -622,14 +593,17 @@ He pulled open the next door, both of them hardly daring to look at what came ne
 They stepped over the threshold, and immediately a fire sprang up behind
 them in the doorway. It wasn't ordinary fire either; it was purple. At
 
-
 the same instant, black flames shot up in the doorway leading onward.
 They were trapped.
 "Look!" Hermione seized a roll of paper lying next to the bottles. Harrylooked over her shoulder to read it:Danger lies before you, while safety lies behind,Two of us will help you, which ever you would find,
 One among us seven will let you move ahead,Another will transport the drinker back instead,
 Two among our number hold only nettle wine,Three of us are killers, waiting bidden in line.
-Choose, unless you wish to stay here forevermore,To help you in your choice, we give you these clues four:First, however slyly the poison tries to hideYou will always find some on nettle wine's left side;
-Second, different are those who stand at either end,But if you would move onward, neither is yourfriend;Third, as you see clearly, all are different size,Neither dwarf nor giant holds death in their insides;Fourth, the second left and the second on the rightAre twins once you taste them, though different at first sight.
+Choose, unless you wish to stay here forevermore,To help you in your choice, we give you these clues four :First, however slyly the poison tries to hide You will always find some on nettle wine's left side;
+ Second, different are those who stand at either end,But if you would move onward, neither is your friend;
+
+Third, as you see clearly, all are different size,Neither dwarf nor giant holds death in their insides;
+
+Fourth, the second left and the second on the right Are twins once you taste them, though different at first sight.
 
 
 229

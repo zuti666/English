@@ -21,11 +21,11 @@ Harry couldn't take it in. This couldn't be true, it couldn't.
 
 "But Snape tried to kill me!" 
 
-"No, no, no. I tried to kill you. Your friend Miss Granger accidentally knocked me over as she rushed to set fire to Snape at that Quidditch match. She broke my eye contact with you. Another few seconds and I'd have got you off that broom. I'd have managed it before then if Snape hadn't been muttering a countercurse, trying to save you." 
+"No, no, no. I tried to kill you. Your friend Miss Granger accidentally knocked me over as she rushed to set fire to Snape at that Quidditch match. She broke my eye contact with you. Another few seconds and I'd have got you off that broom. I'd have managed it before then if Snape hadn't been muttering a counter curse, trying to save you." 
 
 "Snape was trying to save me?" 
 
-"Of course," said Quirrell coolly. "\Why do you think he wanted to referee your next match? He was trying to make sure I didn't do it again. Funny, really... he needn't have bothered. I couldn't do anything with Dumbledore watching. All the other teachers thought Snape was trying to stop Gryffindor from winning, he did make himself unpopular... and what a waste of time, when after all that, I'm going to kill you tonight." 
+"Of course," said Quirrell coolly. "Why do you think he wanted to referee your next match? He was trying to make sure I didn't do it again. Funny, really... he needn't have bothered. I couldn't do anything with Dumbledore watching. All the other teachers thought Snape was trying to stop Gryffindor from winning, he did make himself unpopular... and what a waste of time, when after all that, I'm going to kill you tonight." 
 
 232
 
@@ -41,8 +41,7 @@ Quirrell snapped his fingers. Ropes sprang out of thin air and wrapped themselve
 
 "Now, wait quietly, Potter. I need to examine this interesting mirror. 
 
-It was only then that Harry realized what was standing behind Quirrell. 
-It was the Mirror of Erised. 
+It was only then that Harry realized what was standing behind Quirrell. It was the Mirror of Erised. 
 
 "This mirror is the key to finding the Stone," Quirrell murmured, tapping his way around the frame. "Trust Dumbledore to come up with something like this... but he's in London... I'll be far away by the time he gets back...." 
 
@@ -68,10 +67,9 @@ had to keep Quirrell from giving his whole attention to the mirror.
 
 "Oh, he does," said Quirrell casually, "heavens, yes. He was at Hogwarts with your father, didn't you know? They loathed each other. But he never wanted you dead." 
 
-"But I heard you a few days ago, sobbing -- I thought Snape was 
-threatening you...." 
+"But I heard you a few days ago, sobbing -- I thought Snape was threatening you...." 
 
-For the first time, a spasm of fear flitted across Quirrell's face. 
+For the first time, a ==spasm== of fear flitted across Quirrell's face. 
 
 "Sometimes," he said, "I find it hard to follow my master's instructions -- he is a great wizard and I am weak --" 
 
@@ -87,7 +85,7 @@ Quirrell cursed under his breath.
 
 Harry's mind was racing. 
 
-What I want more than anything else in the world at the moment, he thought, is to find the Stone beforeQuirrell does. So if I look in the mirror, I should see myseff finding it -- which means I'll see where it's hidden! But how can I look without Quirrell realizing what I'm up 
+What I want more than anything else in the world at the moment, he thought, is to find the Stone before Quirrell does. So if I look in the mirror, I should see myself finding it -- which means I'll see where it's hidden! But how can I look without Quirrell realizing what I'm up 
 
 234
 
@@ -109,9 +107,7 @@ He clapped his hands once, and the ropes binding Harry fell off. Harry got slowl
 
 "Come here," Quirrell repeated. "Look in the mirror and tell me what you see." 
 
-Harry walked toward him. 
-
-I must lie, he thought desperately. I must look and lie about what I see, that's all. 
+Harry walked toward him. I must lie, he thought desperately. I must look and lie about what I see, that's all. 
 
 Quirrell moved close behind him. Harry breathed in the funny smell that seemed to come from Quirrell's turban. He closed his eyes, stepped in front of the mirror, and opened them again. 
 
@@ -159,12 +155,9 @@ Harry tried to take a step backward but his legs wouldn't move.
 
 me that Stone in your pocket?" 
 
-So he knew. The feeling suddenly surged back into Harry's legs. He 
-tumbled backward. 
+So he knew. The feeling suddenly surged back into Harry's legs. He tumbled backward. 
 
-"Don't be a fool," snarled the face. "Better save your own life and join 
-me... or you'll meet the same end as your parents.... They died begging 
-me for mercy..." 
+"Don't be a fool," snarled the face. "Better save your own life and join me... or you'll meet the same end as your parents.... They died begging me for mercy..." 
 
 "LIAR!" Harry shouted suddenly. 
 
@@ -174,28 +167,34 @@ Quirrell was walking backward at him, so that Voldemort could still see him. The
 
 "NEVER!" 
 
-Harry sprang toward the flame door, but Voldemort screamed "SEIZE HIM!" and the next second, Harry feltQuirrell's hand close on his wrist. At once, a needle-sharp pain seared across Harry's scar; his head felt asthough it was about to split in two; he yelled, struggling with all his might, and to his surprise, Quirrell letgo of him. The pain in his head lessened -- he looked around wildly to see where Quirrell had gone, andsaw him hunched in pain, looking at his fingers -- they were blistering before his eyes. 
+Harry sprang toward the flame door, but Voldemort screamed 
 
-"Seize him! SEIZE HIM!" shrieked Voldemort again, and Quirrell lunged, knocking Harry clean off his feet' landing on top of him, both hands around Harry's neck -- Harry's scar was almost blinding him with pain, yet he could see Quirrell howling in agony. 
+"SEIZE HIM!" 
+
+and the next second, Harry feltQuirrell's hand close on his wrist. 
+
+At once, a needle-sharp pain seared across Harry's scar; his head felt as though it was about to split in two; he yelled, struggling with all his might, and to his surprise, Quirrell let go of him. The pain in his head lessened -- he looked around wildly to see where Quirrell had gone, and saw him hunched in pain, looking at his fingers -- they were blistering before his eyes. 
+
+"Seize him! SEIZE HIM!" shrieked Voldemort again, and Quirrell lunged, knocking Harry clean off his feet' landing on top of him, both hands around Harry's neck -- Harry's scar was almost blinding him with pain, yet he could see Quirrell howling in ==agony==. 
 
 "Master, I cannot hold him -- my hands -- my hands!" 
 
-And Quirrell, though pinning Harry to the ground with his knees, let go of his neck and stared, bewildered, at his own palms -- Harry could see they looked burned, raw, red, and shiny. 
+And Quirrell, though pinning Harry to the ground with his knees, let go of his neck and stared, ==bewildered==, at his own palms -- Harry could see they looked burned, raw, red, and shiny. 
 
 "Then kill him, fool, and be done!" screeched Voldemort. 
 
 237
 
 
-
-Quirrell raised his hand to perform a deadly curse, but Harry, by 
-instinct, reached up and grabbed Quirrell's face -
+Quirrell raised his hand to perform a deadly curse, but Harry, by instinct, reached up and grabbed Quirrell's face -
 
 "AAAARGH!" 
 
 Quirrell rolled off him, his face blistering, too, and then Harry knew: Quirrell couldn't touch his bare skin, not without suffering terrible pain -- his only chance was to keep hold of Quirrell, keep him in enough pain to stop him from doing a curse. 
 
-Harry jumped to his feet, caught Quirrell by the arm, and hung on as tight as he could. Quirrell screamedand tried to throw Harry off -- the pain in Harry's head was building -- he couldn't see -- he could only hear Quirrell's terrible shrieks and Voldemort's yells of, "KILL HIM! KILL HIM!" and other voices, maybe in Harry's own head, crying, "Harry! Harry!" 
+Harry jumped to his feet, caught Quirrell by the arm, and hung on as tight as he could.
+
+ Quirrell screamed and tried to throw Harry off -- the pain in Harry's head was building -- he couldn't see -- he could only hear Quirrell's terrible shrieks and Voldemort's yells of, "KILL HIM! KILL HIM!" and other voices, maybe in Harry's own head, crying, "Harry! Harry!" 
 
 He felt Quirrell's arm wrenched from his grasp, knew all was lost, and fell into blackness, down ... down... down... 
 
@@ -221,8 +220,7 @@ Harry swallowed and looked around him. He realized he must be in the hospital wi
 
 to him was a table piled high with what looked like half the candy shop. 
 
-"Tokens from your friends and admirers," said Dumbledore, beaming. "What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. I believe your friends Misters Fred and George Weasley were responsible for trying to send you a toilet seat. No doubt they thought it would amuse you. Madam 
-Pomfrey, however, felt it might not be very hygienic, and confiscated it." 
+"Tokens from your friends and admirers," said Dumbledore, beaming. "What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows. I believe your friends Misters Fred and George Weasley were responsible for trying to send you a toilet seat. No doubt they thought it would amuse you. Madam Pomfrey, however, felt it might not be very ==hygienic==, and c==onfiscated== it." 
 
 "How long have I been in here?" 
 
@@ -259,7 +257,7 @@ I see you are not to be distracted. Very well, the Stone. Professor Quirrell did
 
 Dumbledore smiled at the look of amazement on Harry's face. 
 
-"To one as young as you, I'm sure it seems incredible, but to Nicolas and Perenelle, it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all -- the trouble is, humans do have a knack of choosing precisely those things that are worst for them." Harry lay there, lost for words. Dumbledore hummed a little and smiled at the ceiling. 
+"To one as young as you, I'm sure it seems incredible, but to Nicolas and Perenelle, it really is like going to bed after a very, very long day. After all, to the well-organized mind, death is but the next great adventure. You know, the Stone was really not such a wonderful thing. As much money and life as you could want! The two things most human beings would choose above all -- the trouble is, humans do have a ==knack== of choosing precisely those things that are worst for them." Harry lay there, lost for words. Dumbledore hummed a little and smiled at the ceiling. 
 
 "Sir?" said Harry. "I've been thinking... sir -- even if the Stone's gone, Vol-, I mean, You-Know- Who --" 
 
@@ -269,9 +267,7 @@ Dumbledore smiled at the look of amazement on Harry's face.
 
 "No, Harry, he has not. He is still out there somewhere, perhaps looking for another body to share... not being truly alive, he cannot be killed. He left Quirrell to die; he shows just as little mercy to his followers as his enemies. Nevertheless, Harry, while you may only have delayed his return to power, it will merely take someone else who is prepared to fight what seems a losing battle next time -- and if he is delayed again, and again, why, he may never return to power." 
 
-Harry nodded, but stopped quickly, because it made his head hurt. Then 
-he said, "Sir, there are some other things I'd like to know, if you can 
-tell me... things I want to know the truth about...." 
+Harry nodded, but stopped quickly, because it made his head hurt. Then he said, "Sir, there are some other things I'd like to know, if you can tell me... things I want to know the truth about...." 
 
 "The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution. However, I shall answer your questions unless I have a very good reason not to, in which case I beg you'll forgive me. I shall not, of course, lie." 
 
@@ -346,25 +342,19 @@ Madam Pomfrey, the nurse, was a nice woman, but very strict.
 "I am resting, look, lying down and everything. Oh, go on, Madam 
 
 Pomfrey..."
-"Oh, very well," she said. "But five minutes only."
-And she let Ron and Hermione in.
-"Harry!"
-Hermione looked ready to fling her arms around him again, but Harry wasglad she held herself in as his head was still very sore.
-
+"Oh, very well," she said. "But five minutes only."And she let Ron and Hermione in.
+"Harry!"Hermione looked ready to fling her arms around him again, but Harry was glad she held herself in as his head was still very sore.
 
 "Oh, Harry, we were sure you were going to -- Dumbledore was so worried--"
 "The whole school's talking about it," said Ron. "What really happened?"
-It was one of those rare occasions when the true story is even more
-
-
-strange and exciting than the wild rumors. Harry told them everything: Quirrell; the mirror; the Stone; and Voldemort. Ron and Hermione were a very good audience; they gasped in all the right places, and when Harry told them what was under Quirrell's turban, Hermione screamed out loud. 
+It was one of those rare occasions when the true story is even more strange and exciting than the wild rumors. Harry told them everything: Quirrell; the mirror; the Stone; and Voldemort. Ron and Hermione were a very good audience; they gasped in all the right places, and when Harry told them what was under Quirrell's turban, Hermione screamed out loud. 
 
 "So the Stone's gone?" said Ron finally. "Flamel's just going to die?" 
 
 "That's what I said, but Dumbledore thinks that -- what was it? -- 'to the well-organized mind, death is but the next great adventure. 
 "I always said he was off his rocker," said Ron, looking quite impressed at how crazy his hero was.
 "So what happened to you two?" said Harry.
-"Well, I got back all right," said Hermione. "I brought Ron round -that took a while -- and we were dashing up to the owlery to contact Dumbledore when we met him in the entrance hall -- he already knew -- he just said, 'Harry's gone after him, hasn't he?' and hurtled off to the 
+"Well, I got back all right," said Hermione. "I brought Ron round -that to///ok a while -- and we were dashing up to the owlery to contact Dumbledore when we met him in the entrance hall -- he already knew -- he just said, 'Harry's gone after him, hasn't he?' and hurtled off to the 
 
 243
 
@@ -426,7 +416,7 @@ When Harry walked in there was a sudden hush, and then everybody started talking
 
 standing up to look at him. 
 
-Fortunately, Dumbledore arrived moments later. The babble died away. 
+Fortunately, Dumbledore arrived moments later. The ==babble== died away. 
 
 "Another year gone!" Dumbledore said cheerfully. "And I must trouble you with an old man's wheezing waffle before we sink our teeth into our delicious feast. What a year it has been! Hopefully your heads are all a little fuller than they were... you have the whole summer ahead to get them nice and empty before next year starts.... 
 
@@ -442,7 +432,7 @@ The room went very still. The Slytherins' smiles faded a little.
 
 "First -- to Mr. Ronald Weasley..." 
 
-Ron went purple in the face; he looked like a radish with a bad sunburn. 
+Ron went purple in the face; he looked like a ==radish== with a bad sunburn. 
 
 "...for the best-played game of chess Hogwarts has seen in many years, I award Gryffindor house fifty points." 
 
@@ -470,7 +460,9 @@ Someone standing outside the Great Hall might well have thought some sort of exp
 
 "Which means, Dumbledore called over the storm of applause, for even Ravenclaw and Hufflepuff were celebrating the downfall of Slytherin, "we need a little change of decoration." 
 
-He clapped his hands. In an instant, the green hangings became scarlet and the silver became gold; the huge Slytherin serpent vanished and a towering Gryffindor lion took its place. Snape was shaking Professor McGonagall's hand, with a horrible, forced smile. He caught Harry's eye and Harry knew at once that Snape's feelings toward him hadn't changed one jot. This didn't worry Harry. It seemed as though life would be back to normal next year, or as normal as it ever was at Hogwarts. 
+He clapped his hands. In an instant, the green hangings became scarlet and the silver became gold; the huge Slytherin serpent vanished and a towering Gryffindor lion took its place.
+
+ Snape was shaking Professor McGonagall's hand, with a horrible, forced smile. He caught Harry's eye and Harry knew at once that Snape's feelings toward him hadn't changed one jot. This didn't worry Harry. It seemed as though life would be back to normal next year, or as normal as it ever was at Hogwarts. 
 
 It was the best evening of Harry's life, better than winning at Quidditch, or Christmas, or knocking out mountain trolls... he would 
 
@@ -483,7 +475,9 @@ never, ever forget tonight.
 Harry had almost forgotten that the exam results were still to come, but come they did. To their great surprise, both he and Ron passed with good marks; Hermione, of course, had the best grades of the first years. Even Neville scraped through, his good Herbology mark making up for his abysmal Potions one. They had hoped that Goyle, who was almost as stupid as he was mean, might be thrown out, but he had passed, too. It was a shame, but as Ron said, you couldn't have everything in life. 
 
 And suddenly, their wardrobes were empty, their trunks were packed, Neville's toad was found lurking in a corner of the toilets; notes were handed out to all students, warning them not to use magic over the holidays ("I always hope they'll forget to give us these," said Fred 
-Weasley sadly); Hagrid was there to take them down to the fleet of boats that sailed across the lake; they were boarding the Hogwarts Express; talking and laughing as the countryside became greener and tidier; eating Bettie Bott's Every Flavor Beans as they sped past Muggle towns; pulling off their wizard robes and putting on jackets and coats; pulling into platform nine and three-quarters at King's Cross Station. 
+Weasley sadly);
+
+ Hagrid was there to take them down to the fleet of boats that sailed across the lake; they were boarding the Hogwarts Express; talking and laughing as the countryside became greener and tidier; eating Bettie Bott's Every Flavor Beans as they sped past Muggle towns; pulling off their wizard robes and putting on jackets and coats; pulling into platform nine and three-quarters at King's Cross Station. 
 
 It took quite a while for them all to get off the platform. A wizened old guard was up by the ticket barrier, letting them go through the gate in twos and threes so they didn't attract attention by all bursting out of a solid wall at once and alarming the Muggles. 
 
@@ -503,32 +497,24 @@ He, Ron, and Hermione passed through the gateway together. "There he is, Mom, th
 
 248
 
-
-It was Ginny Weasley, Ron's younger sister, but she wasn't pointing at
-Ron.
+It was Ginny Weasley, Ron's younger sister, but she wasn't pointing at Ron.
 "Harry Potter!" she squealed. "Look, Mom! I can see
 "Be quiet, Ginny, and it's rude to point."Mrs. Weasley smiled down at them.
 
-
 "Busy year?" she said.
-"Very," said Harry. "Thanks for the fudge and the sweater, Mrs.
-Weasley."
-
+"Very," said Harry. "Thanks for the ==fudge== and the sweater, Mrs. Weasley."
 
 "Oh, it was nothing, dear."
 "Ready, are you?"
-It was Uncle Vernon, still purple-faced, still mustached, still looking
-
-
-furious at the nerve of Harry, carrying an owl in a cage in a station full of ordinary people. Behind him stood Aunt Petunia and Dudley, looking terrified at the very sight of Harry. 
+It was Uncle Vernon, still purple-faced, still mustached, still looking furious at the nerve of Harry, carrying an owl in a cage in a station full of ordinary people. Behind him stood Aunt Petunia and Dudley, looking terrified at the very sight of Harry. 
 
 "You must be Harry's family!" said Mrs. Weasley. 
 
-"In a manner of speaking," said Uncle Vernon. "Hurry up, boy, we haven'tgot all day." He walked away.
+"In a manner of speaking," said Uncle Vernon. "Hurry up, boy, we haven't got all day." He walked away.
 Harry hung back for a last word with Ron and Hermione.
 "See you over the summer, then."
-"Hope you have -- er -- a good holiday," said Hermione, lookinguncertainly after Uncle Vernon, shocked that anyone could be sounpleasant.
-"Oh, I will," said Harry, and they were surprised at the grin that wasspreading over his face. "They don't know we're not allowed to use magicat home. I'm going to have a lot of fun with Dudley this summer...."
+"Hope you have -- er -- a good holiday," said Hermione, looking uncertainly after Uncle Vernon, shocked that anyone could be so unpleasant.
+"Oh, I will," said Harry, and they were surprised at the grin that was spreading over his face. "They don't know we're not allowed to use magic at home. I'm going to have a lot of fun with Dudley this summer...."
 
 
 THE END

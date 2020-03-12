@@ -292,18 +292,18 @@ though the teddy was having his head torn off.
 "Mommy will never forget you!"
 
 
-How they managed to get the crate back up to the castle, they neverknew. Midnight ticked nearer as they heaved Norbert up the marblestaircase in the entrance hall and along the dark corridors. UP anotherstaircase, then another -- even one of Harry's shortcuts didn't make thework much easier.
+How they managed to get the crate back up to the castle, they never knew. Midnight ticked nearer as they heaved Norbert up the marble staircase in the entrance hall and along the dark corridors. UP another staircase, then another -- even one of Harry's shortcuts didn't make the work much easier.
 
 
 "Nearly there!" Harry panted as they reached the corridor beneath the tallest tower.
 
-Then a sudden movement ahead of them made them almost drop the crate.Forgetting that they were already invisible, they shrank into the shadows, staring at the dark outlines of two people grappling with eachother ten feet away. A lamp flared.
+Then a sudden movement ahead of them made them almost drop the crate. Forgetting that they were already invisible, they shrank into the shadows, staring at the dark outlines of two people grappling with each other ten feet away. A lamp flared.
 
 
-Professor McGonagall, in a tartan bathrobe and a hair net, had Malfoy bythe ear.
+Professor McGonagall, in a tartan bathrobe and a hair net, had Malfoy by the ear.
 
 
-"Detention!" she shouted. "And twenty points from Slytherin! Wanderingaround in the middle of the night, how dare you --"
+"Detention!" she shouted. "And twenty points from Slytherin! Wandering around in the middle of the night, how dare you --"
 
 
 "You don't understand, Professor. Harry Potter's coming -- he's got a dragon!"

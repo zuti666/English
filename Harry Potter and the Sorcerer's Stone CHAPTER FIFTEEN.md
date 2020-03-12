@@ -7,14 +7,13 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://dict.eudic.net/webting/play?id=f9a0a2a8-af91-4453-9b59-d75ab2156b81&order=0"></iframe>
 Things couldn't have been worse. 
 
-Filch took them down to Professor McGonagall's study on the first floor, where they sat and waited without saying a word to each other. Hermione was trembling. Excuses, alibis, and wild cover- up stories chased each other around Harry's brain, each more feeble than the last. He couldn't see how they were going to get out of trouble this time. They were cornered. How could they have been so stupid as to forget the cloak? There was no reason on earth that Professor McGonagall would accept for their being out of bed and creeping around the school in the dead of night, let alone being up the tallest astronomy tower, which was out-of-bounds except for classes. Add Norbert and the invisibilitycloak, and they might as well be packing their bags already. 
+Filch took them down to Professor McGonagall's study on the first floor, where they sat and waited without saying a word to each other. Hermione was trembling. Excuses, alibis, and wild cover- up stories chased each other around Harry's brain, each more feeble than the last. He couldn't see how they were going to get out of trouble this time. They were cornered. How could they have been so stupid as to forget the cloak? There was no reason on earth that Professor McGonagall would accept for their being out of bed and creeping around the school in the dead of night, let alone being up the tallest astronomy tower, which was out-of-bounds except for classes. Add Norbert and the invisibility cloak, and they might as well be packing their bags already. 
 
 Had Harry thought that things couldn't have been worse? He was wrong. When Professor McGonagall appeared, she was leading Neville. 
 
 193
 
 
-
 "Harry!" Neville burst Out, the moment he saw the other two. "I was trying to find you to warn you, I heard Malfoy saying he was going to catch you, he said you had a drag --" 
 
 Harry shook his head violently to shut Neville up, but Professor McGonagall had seen. She looked more likely to breathe fire than Norbert as she towered over the three of them. 
@@ -47,7 +46,7 @@ A hundred and fifty points lost. That put Gryffindor in last place. In one night
 
 Harry didn't sleep all night. He could hear Neville sobbing into his pillow for what seemed like hours. Harry couldn't think of anything to say to comfort him. He knew Neville, like himself, was dreading the dawn. What would happen when the rest of Gryffindor found out what they'd done? 
 
-At first, Gryffindors passing the giant hourglasses that recorded the house points the next day thought there'd been a mistake. How could they suddenly have a hundred and fifty points fewer than yesterday? And then the story started to spread: Harry Potter, the famous Harry Potter, their hero of two Quidditch matches, had lo st them all those points, him and a couple of other stupid first years. 
+At first, Gryffindors passing the giant hourglasses that recorded the house points the next day thought there'd been a mistake. How could they suddenly have a hundred and fifty points fewer than yesterday? And then the story started to spread: Harry Potter, the famous Harry Potter, their hero of two Quidditch matches, had lost them all those points, him and a couple of other stupid first years. 
 
 From being one of the most popular and admired people at the school, Harry was suddenly the most hated. Even Ravenclaws and Hufflepuffs turned on him, because everyone had been longing to see Slytherin lose the house cup. Everywhere Harry went, people pointed and didn't trouble to lower their voices as they insulted him. Slytherins, on the other hand, clapped as he walked past them, whistling and cheering, "Thanks Potter, we owe you one!" 
 
@@ -90,22 +89,21 @@ All the same, he'd have gambled twelve Sorcerer's Stones that Snape had just lef
 196
 
 
-
-walking with a new spring in his step -- Quirrell seemed to have given 
-in at last. 
+walking with a new spring in his step -- Quirrell seemed to have given in at last. 
 
-Harry went back to the library, where Hermione was testing Ron on 
-Astronomy. Harry told them what he'd heard. 
+Harry went back to the library, where Hermione was testing Ron on Astronomy. 
 
-"Snape's done it, then!" said Ron. "If Quirrell's told him how to break 
-his Anti-Dark Force spell --" 
+Harry told them what he'd heard. 
+
+"Snape's done it, then!" said Ron.
+
+ "If Quirrell's told him how to break his Anti-Dark Force spell --" 
 
 "There's still Fluffy, though," said Hermione. 
 
 "Maybe Snape's found out how to get past him without asking Hagrid," said Ron, looking up at the thousands of books surrounding them. "I bet there's a book somewhere in here telling you how to get past a giant three-headed dog. So what do we do, Harry?" 
 
-The light of adventure was kindling again in Ron's eyes, but Hermione 
-answered before Harry could. "Go to Dumbledore. That's what we should have done ages ago. If we try anything ourselves we'll be thrown out for sure." 
+The light of adventure was kindling again in Ron's eyes, but Hermione answered before Harry could. "Go to Dumbledore. That's what we should have done ages ago. If we try anything ourselves we'll be thrown out for sure." 
 
 "But we've got no proof!" said Harry. "Quirrell's too scared to back us up. Snape's only got to say he doesn't know how the troll got in at Halloween and that he was nowhere near the third floor -- who do you think they'll believe, him or us? It's not exactly a secret we hate him, Dumbledore'll think we made it up to get him sacked. Filch wouldn't help us if his life depended on it, he's too friendly with Snape, and the more students get thrown out, the better, he'll think. And don't forget, we're not supposed to know about the Stone or Fluffy. That'll take a lot of explaining." 
 
@@ -135,7 +133,9 @@ I bet you'll think twice about breaking a school rule again, won't you, eh?" he 
 
 They marched off across the dark grounds. Neville kept sniffing. Harry wondered what their punishment was going to be. It must be something really horrible, or Filch wouldn't be sounding so delighted. 
 
-The moon was bright, but clouds scudding across it kept throwing them into darkness. Ahead, Harry could see the lighted windows of Hagrid's hut. Then they heard a distant shout. 
+The moon was bright, but clouds scudding across it kept throwing them into darkness. Ahead, Harry could see the lighted windows of Hagrid's hut. 
+
+Then they heard a distant shout. 
 
 "Is that you, Filch? Hurry up, I want ter get started." 
 
@@ -146,7 +146,6 @@ At this, Neville let out a little moan, and Malfoy stopped dead in his tracks.
 198
 
 
-
 "The forest?" he repeated, and he didn't sound quite as cool as usual. 
 "We can't go in there at night -- there's all sorts of things in there -- werewolves, I heard." 
 
@@ -164,21 +163,19 @@ Hagrid came striding toward them out of the dark, Fang at his heel. He was carry
 
 "I'll be back at dawn," said Filch, "for what's left of them," he added nastily, and he turned and started back toward the castle, his lamp bobbing away in the darkness. 
 
-Malfoy now turned to Hagrid. 
-
-"I'm not going in that forest, he said, and Harry was pleased to hear the note of panic in his voice. 
+Malfoy now turned to Hagrid. "I'm not going in that forest, he said, and Harry was pleased to hear the note of panic in his voice. 
 
 "Yeh are if yeh want ter stay at Hogwarts," said Hagrid fiercely. 
 "Yeh've done wrong an' now yehve got ter pay fer it." 
 
-"But this is servant stuff, it's not for students to do. I thought we'd be copying lines or something, if my father knew I was doing this, he'd tell yer that's how it is at Hogwarts," Hagrid growled. "Copyin' lines! What good's that ter anyone? Yeh'll do summat useful or Yeh'll get out. If yeh think yer father'd rather you were expelled, then get back off ter the castle an' pack. Go on"' 
+"But this is servant stuff, it's not for students to do. I thought we'd be copying lines or something, if my father knew I was doing this, 
+
+he'd tell yer that's how it is at Hogwarts," Hagrid growled. "Copyin' lines! What good's that ter anyone? Yeh'll do summat useful or Yeh'll get out. If yeh think yer father'd rather you were expelled, then get back off ter the castle an' pack. Go on"' 
 
 199
 
 
-
-Malfoy didn't move. He looked at Hagrid furiously, but then dropped his 
-gaze. 
+Malfoy didn't move. He looked at Hagrid furiously, but then dropped his gaze. 
 
 "Right then," said Hagrid, "now, listen carefully, 'cause it's dangerous what we're gonna do tonight, an' I don' want no one takin' risks. Follow me over here a moment." 
 
@@ -193,7 +190,7 @@ the forest.
 
 "I want Fang," said Malfoy quickly, looking at Fang's long teeth. 
 
-"All right, but I warn yeh, he's a coward," said Hagrid. " So me, Harry, an' Hermione'll go one way an' Draco, Neville, an' Fang'll go the other. Now, if any of us finds the unicorn, we'll send up green sparks, right? Get yer wands out an' practice now -- that's it -- an' if anyone gets introuble, send up red sparks, an' we'll all come an' find yeh -- so, be careful -- let's go." 
+"All right, but I warn yeh, he's a coward," said Hagrid. " So me, Harry, an' Hermione'll go one way an' Draco, Neville, an' Fang'll go the other. Now, if any of us finds the unicorn, we'll send up green sparks, right? Get yer wands out an' practice now -- that's it -- an' if anyone gets in trouble, send up red sparks, an' we'll all come an' find yeh -- so, be careful -- let's go." 
 
 The forest was black and silent. A little way into it they reached a fork in the earth path, and Harry, Hermione, and Hagrid took the left path while Malfoy, Neville, and Fang took the right. 
 
@@ -237,8 +234,7 @@ And into the clearing came -- was it a man, or a horse? To the waist, a man, wit
 
 He walked forward and shook the centaur's hand.
 
-
-"Good evening to you, Hagrid," said Ronan. He had a deep, sorrowfulvoice. "Were you going to shoot me?"
+"Good evening to you, Hagrid," said Ronan. He had a deep, sorrowful voice. "Were you going to shoot me?"
 "Can't be too careful, Ronan," said Hagrid, patting his crossbow.
 
 
@@ -249,13 +245,10 @@ He walked forward and shook the centaur's hand.
 "Good evening," said Ronan. "Students, are you? And do you learn much,up at the school?"
 "Erm --"
 "A bit," said Hermione timidly.
-"A bit. Well, that's something." Ronan sighed. He flung back his head
+"A bit. Well, that's something." Ronan sighed. He flung back his headand stared at the sky. "Mars is bright tonight."
 
 
-and stared at the sky. "Mars is bright tonight."
-
-
-"Yeah," said Hagrid, glancing up, too. "Listen, I'm glad we've run interyeh, Ronan, 'cause there's a unicorn bin hurt -- you seen anythin'?"Ronan didn't answer immediately. He stared unblinkingly upward, thensighed again.
+"Yeah," said Hagrid, glancing up, too. "Listen, I'm glad we've run interyeh, Ronan, 'cause there's a unicorn bin hurt -- you seen anythin'?"Ronan didn't answer immediately. He stared unblinkingly upward, then sighed again.
 
 
 "Always the innocent are the first victims," he said. "So it has beenfor ages past, so it is now."
@@ -264,12 +257,12 @@ and stared at the sky. "Mars is bright tonight."
 
 unusual?"
 
-
-"Mars is bright tonight," Ronan repeated, while Hagrid watched himimpatiently. "Unusually bright."
+"Mars is bright tonight," Ronan repeated, while Hagrid watched him impatiently. "Unusually bright."
 "Yeah, but I was meanin' anythin' unusual a bit nearer home, said
 
+Hagrid. "So yeh haven't noticed anythin' strange?"
 
-Hagrid. "So yeh haven't noticed anythin' strange?"Yet again, Ronan took a while to answer. At last, he said, "The foresthides many secrets."
+Yet again, Ronan took a while to answer. At last, he said, "The forest hides many secrets."
 
 
 202
@@ -284,8 +277,7 @@ A movement in the trees behind Ronan made Hagrid raise his bow again, but it was
 
 "Well enough. Look, I've jus' bin askin' Ronan, you seen anythin' odd in here lately? There's a unicorn bin injured -- would yeh know anythin' about it?" 
 
-Bane walked over to stand next to Ronan. He looked skyward. "Mars is 
-bright tonight," he said simply. 
+Bane walked over to stand next to Ronan. He looked skyward. "Mars is bright tonight," he said simply. 
 
 "We've heard," said Hagrid grumpily. "Well, if either of you do see anythin', let me know, won't yeh? We'll be off, then." 
 
@@ -308,16 +300,15 @@ They walked on through the dense, dark trees. Harry kept looking nervously over 
 203
 
 
-
-"You two wait here!" Hagrid shouted. "Stay on the path, I'll come back 
-for yeh!" 
+"You two wait here!" Hagrid shouted. "Stay on the path, I'll come back for yeh!" 
 
 They heard him crashing away through the undergrowth and stood looking at each other, very scared, until they couldn't hear anything but the rustling of leaves around them. 
 
 "You don't think they've been hurt, do you?" whispered Hermione. 
 
-"I don't care if Malfoy has, but if something's got Neville... it's our 
-fault he's here in the first place." The minutes dragged by. Their ears seemed sharper than usual. Harry's seemed to be picking up every sigh of the wind, every cracking twig. What was going on? Where were theothers? 
+"I don't care if Malfoy has, but if something's got Neville... it's our fault he's here in the first place." 
+
+The minutes dragged by. Their ears seemed sharper than usual. Harry's seemed to be picking up every sigh of the wind, every cracking twig. What was going on? Where were the others? 
 
 At last, a great crunching noise announced Hagrid's return. Malfoy, Neville, and Fang were with him. Hagrid was fuming. Malfoy, it seemed, had sneaked up behind Neville and grabbed him as a joke. Neville had panicked and sent up the sparks. 
 
@@ -329,7 +320,7 @@ So Harry set off into the heart of the forest with Malfoy and Fang. They walked 
 
 Something bright white was gleaming on the ground. They inched closer. 
 
-It was the unicorn all right, and it was dead. Harry had never seen anything so beautiful and sad. Its long, slender legs were stuck out at odd angles where it had fallen and its mane was spread pearly-white on 
+It was the unicorn all right, and it was dead. Harry had never seen anything so beautiful and sad. Its long, ==slender== legs were stuck out at odd angles where it had fallen and its ==mane== was spread pearly-white on 
 
 204
 
@@ -337,7 +328,9 @@ It was the unicorn all right, and it was dead. Harry had never seen anything so 
 
 the dark leaves. 
 
-Harry had taken one step toward it when a slithering sound made him freeze where he stood. A bush on the edge of the clearing quivered.... Then, out of the shadows, a hooded figure came crawling across the ground like some stalking beast. Harry, Malfoy, and Fang stood transfixed. The cloaked figure reached the unicorn, lowered its head over the wound in the animal's side, and began to drink its blood. 
+Harry had taken one step toward it when a slithering sound made him freeze where he stood. A bush on the edge of the clearing quivered.... Then, out of the shadows, a hooded figure came crawling across the ground like some stalking beast. 
+
+Harry, Malfoy, and Fang stood transfixed. The cloaked figure reached the unicorn, lowered its head over the wound in the animal's side, and began to drink its blood. 
 
 "AAAAAAAAAARGH!" 
 
@@ -345,13 +338,15 @@ Malfoy let out a terrible scream and bolted -- so did Fang. The hooded figure ra
 
 Then a pain like he'd never felt before pierced his head; it was as though his scar were on fire. Half blinded, he staggered backward. He heard hooves behind him, galloping, and something jumped clean over Harry, charging at the figure. 
 
-The pain in Harry's head was so bad he fell to his knees. It took a minute or two to pass. When he looked up, the figure had gone. A centaur was standing over him, not Ronan or Bane; this one looked younger; he had white-blond hair and a palomino body. 
+The pain in Harry's head was so bad he fell to his knees. It took a minute or two to pass. When he looked up, the figure had gone. 
+
+A centaur was standing over him, not Ronan or Bane; this one looked younger; he had white-blond hair and a palomino body. 
 
 "Are you all right?" said the centaur, pulling Harry to his feet. 
 
 "Yes -- thank you -- what was that?" 
 
-The centaur didn't answer. He had astonishingly blue eyes, like pale sapphires. He looked carefully at Harry, his eyes lingering on the scar that stood out, livid, on Harry's forehead. 
+The centaur didn't answer. He had astonishingly blue eyes, like pale ==sapphire==s. He looked carefully at Harry, his eyes lingering on the scar that stood out, livid, on Harry's forehead. 
 
 "You are the Potter boy," he said. "You had better get back to Hagrid. The forest is not safe at this time -- especially for you. Can you ride? It will be quicker this way. 
 
@@ -379,7 +374,7 @@ Bane kicked his back legs in anger.
 
 Firenze suddenly reared on to his hind legs in anger, so that Harry had to grab his shoulders to stay on. 
 
-"Do you not see that unicorn?" Firenze bellowed at Bane. "Do you not understand why it was killed? Or have the planets not let you in on that secret? I set myself against what is lurking in this forest, Bane, yes, with humans alongside me if I must." 
+"Do you not see that unicorn?" Firenze bellowed at Bane. "Do you not understand why it was killed? Or have the planets not let you in on that secret? I set myself against what is ==lurking== in this forest, Bane, yes, with humans alongside me if I must." 
 
 And Firenze whisked around; with Harry clutching on as best he could, they plunged off into the trees, leaving Ronan and Bane behind them. Harry didn't have a clue what was going on. 
 
@@ -397,8 +392,7 @@ Firenze slowed to a walk, warned Harry to keep his head bowed in case of their w
 
 "That is because it is a monstrous thing, to slay a unicorn," said Firenze. "Only one who has nothing to lose, and everything to gain, would commit such a crime. The blood of a unicorn will keep you alive, even if you are an inch from death, but at a terrible price. You have slain something pure and defenseless to save yourself, and you will have but a half-life, a cursed life, from the moment the blood touches your lips." 
 
-Harry stared at the back of Firenze's head, which was dappled silver in 
-the moonlight. 
+Harry stared at the back of Firenze's head, which was dappled silver in the moonlight. 
 
 "But who'd be that desperate?" he wondered aloud. "If you're going to be cursed forever, deaths better, isn't it?" 
 
@@ -442,8 +436,7 @@ Harry couldn't sit down. He paced up and down in front of the fire. He was still
 
 Harry wasn't listening. 
 
-"Firenze saved me, but he shouldn't have done so.... Bane was furious... he was talking about interfering with what the planets say is going to happen.... They must show that Voldemort's coming back.... Bane thinks 
-Firenze should have let Voldemort kill me.... I suppose that's written in the stars as well." 
+"Firenze saved me, but he shouldn't have done so.... Bane was furious... he was talking about interfering with what the planets say is going to happen.... They must show that Voldemort's coming back.... Bane thinks  Firenze should have let Voldemort kill me.... I suppose that's written in the stars as well." 
 
 "Will you stop saying the name!" Ron hissed. 
 
