@@ -4,7 +4,7 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="http://k6.kekenet.com/Sound/2019/01/america_1656248tGM.mp3?play=221127"></iframe>
 
- 　
+
 
 On his bench in Madison Square  Soapy moved uneasily.  When wild ==geese== ==honk== high of nights, and when women without sealskin coats grow kind to their husbands, and when Soapy moves uneasily on his bench in the park, you may know that winter is near at hand.
 
@@ -18,7 +18,7 @@ Soapy’s mind became cognisant of the fact that the time had come for him to re
 
 苏比明白，为了抵御寒冬，由他亲自出马组织一个单人财务委员会的时候到了。为此，他在长凳上辗转反侧，不能入寐。  
 
-The ==hibernator==ial ambitions of Soapy were not of the highest. In them were no considerations of Mediterranean cruises, of soporific Southern skies or drifting in the Vesuvian Bay. Three months on the Island was what his soul craved. Three months of assured board and bed and congenial company, safe from Boreas and bluecoats, seemed to Soapy the essence of things desirable.
+The ==hibernator==ial ambitions of Soapy were not of the highest. In them were no considerations of Mediterranean cruises, of soporific Southern skies or drifting in the Vesuvian Bay. Three months on the Island was what his soul craved. Three months of assured board and bed and congenial company, safe from Boreas and blue coats, seemed to Soapy the essence of things desirable.
 
 苏比的冬居计划并不过奢。他没打算去地中海游弋，也不想去晒南方令人昏昏欲睡的太阳，更没考虑到维苏威湾去漂流。他衷心企求的仅仅是去岛上度过三个月。整整三个月不愁食宿，伙伴们意气相投，再没有“北风”老儿和警察老爷来纠缠不清，在苏比看来，人生的乐趣也莫过于此了。  
 
